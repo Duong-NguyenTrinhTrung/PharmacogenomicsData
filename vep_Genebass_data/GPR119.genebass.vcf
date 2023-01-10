@@ -1,0 +1,205 @@
+## ENSEMBL VARIANT EFFECT PREDICTOR v106.1
+## Output produced at 2022-11-28 19:14:46
+## Connected to homo_sapiens_core_106_38 on ensembldb.ensembl.org
+## Using cache in /projects/ilfgrid/data/VEP_DATA/homo_sapiens/106_GRCh38
+## Using API version 106, DB version 106
+## ensembl version 106.f4b50c6
+## ensembl-funcgen version 106.027e023
+## ensembl-variation version 106.2aa7a5d
+## ensembl-io version 106.6eafdaa
+## Column descriptions:
+## Uploaded_variation : Identifier of uploaded variant
+## Location : Location of variant in standard coordinate format (chr:start or chr:start-end)
+## Allele : The variant allele used to calculate the consequence
+## Gene : Stable ID of affected gene
+## Feature : Stable ID of feature
+## Feature_type : Type of feature - Transcript, RegulatoryFeature or MotifFeature
+## Consequence : Consequence type
+## cDNA_position : Relative position of base pair in cDNA sequence
+## CDS_position : Relative position of base pair in coding sequence
+## Protein_position : Relative position of amino acid in protein
+## Amino_acids : Reference and variant amino acids
+## Codons : Reference and variant codon sequence
+## Existing_variation : Identifier(s) of co-located known variants
+## Extra column keys:
+## IMPACT : Subjective impact classification of consequence type
+## DISTANCE : Shortest distance from variant to transcript
+## STRAND : Strand of the feature (1/-1)
+## FLAGS : Transcript quality flags
+## BayesDel_addAF_score : (from dbNSFP) A deleteriousness preidction meta-score for SNVs and indels with inclusion of MaxAF. See https://doi.org/10.1002/humu.23158 for details. The range of the score in dbNSFP is from -1.11707 to 0.750927. The higher the score, the more likely the variant is pathogenic. The author suggested cutoff between deleterious ("D") and tolerated ("T") is 0.0692655.
+## BayesDel_noAF_score : (from dbNSFP) A deleteriousness preidction meta-score for SNVs and indels without inclusion of MaxAF. See https://doi.org/10.1002/humu.23158 for details. The range of the score in dbNSFP is from -1.31914 to 0.840878. The higher the score, the more likely the variant is pathogenic. The author suggested cutoff between deleterious ("D") and tolerated ("T") is -0.0570105.
+## ClinPred_score : (from dbNSFP) A deleteriousness preidction meta-score for nonsynonymous SNVs. See https://doi.org/10.1016/j.ajhg.2018.08.005. for details. The range of the score in dbNSFP is from 0 to 1. The higher the score, the more likely the variant is pathogenic. The author suggested cutoff between deleterious ("D") and tolerated ("T") is 0.5.
+## DANN_score : (from dbNSFP) DANN is a functional prediction score retrained based on the training data of CADD using deep neural network. Scores range from 0 to 1. A larger number indicate a higher probability to be damaging. More information of this score can be found in doi: 10.1093/bioinformatics/btu703. 
+## DEOGEN2_score : (from dbNSFP) A deleteriousness prediction score "which incorporates heterogeneous information about the molecular effects of the variants, the domains involved, the relevance of the gene and the interactions in which it participates". It ranges from 0 to 1. The larger the score, the more likely the variant is deleterious. The authors suggest a threshold of 0.5 for separating damaging vs tolerant variants.
+## Eigen-PC-phred_coding : (from dbNSFP) Eigen PC score in phred scale.
+## Eigen-PC-raw_coding : (from dbNSFP) Eigen PC score for genome-wide SNVs. A functional prediction score based on conservation, allele frequencies, deleteriousness prediction (for missense SNVs) and epigenomic signals (for synonymous and non-coding SNVs) using an unsupervised learning method (doi: 10.1038/ng.3477). 
+## Eigen-phred_coding : (from dbNSFP) Eigen score in phred scale.
+## Eigen-raw_coding : (from dbNSFP) Eigen score for coding SNVs. A functional prediction score based on conservation, allele frequencies, and deleteriousness prediction using an unsupervised learning method (doi: 10.1038/ng.3477). 
+## FATHMM_score : (from dbNSFP) FATHMM default score (weighted for human inherited-disease mutations with Disease Ontology) (FATHMMori). Scores range from -16.13 to 10.64. The smaller the score the more likely the SNP has damaging effect. Multiple scores separated by ";", corresponding to Ensembl_proteinid.
+## GM12878_fitCons_score : (from dbNSFP) fitCons score predicts the fraction of genomic positions belonging to a specific function class (defined by epigenomic "fingerprint") that are under selective pressure. Scores range from 0 to 1, with a larger score indicating a higher proportion of nucleic sites of the functional class the genomic position belong to are under selective pressure, therefore more likely to be functional important. GM12878 fitCons scores are based on cell type GM12878. More details can be found in doi:10.1038/ng.3196.
+## GenoCanyon_score : (from dbNSFP) A functional prediction score based on conservation and biochemical annotations using an unsupervised statistical learning. (doi:10.1038/srep10576)
+## H1-hESC_fitCons_score : (from dbNSFP) fitCons score predicts the fraction of genomic positions belonging to a specific function class (defined by epigenomic "fingerprint") that are under selective pressure. Scores range from 0 to 1, with a larger score indicating a higher proportion of nucleic sites of the functional class the genomic position belong to are under selective pressure, therefore more likely to be functional important. GM12878 fitCons scores are based on cell type H1-hESC. More details can be found in doi:10.1038/ng.3196.
+## LIST-S2_score : (from dbNSFP) A deleteriousness preidction score for nonsynonymous SNVs. See https://doi.org/10.1093/nar/gkaa288. for details. The range of the score in dbNSFP is from 0 to 1. The higher the score, the more likely the variant is pathogenic. The author suggested cutoff between deleterious ("D") and tolerated ("T") is 0.85.
+## LRT_Omega : (from dbNSFP) estimated nonsynonymous-to-synonymous-rate ratio (Omega, reported by LRT)
+## LRT_pred : (from dbNSFP) LRT prediction, D(eleterious), N(eutral) or U(nknown), which is not solely determined by the score. 
+## LRT_score : (from dbNSFP) The original LRT two-sided p-value (LRTori), ranges from 0 to 1.
+## M-CAP_score : (from dbNSFP) M-CAP is hybrid ensemble score (details in DOI: 10.1038/ng.3703). Scores range from 0 to 1. The larger the score the more likely the SNP has damaging effect. 
+## MVP_score : (from dbNSFP) A pathogenicity prediction score for missense variants using deep learning approach. The range of MVP score is from 0 to 1. The larger the score, the more likely the variant is pathogenic. The authors suggest thresholds of 0.7 and 0.75 for separating damaging vs tolerant variants in constrained genes (ExAC pLI >=0.5) and non-constrained genes (ExAC pLI<0.5), respectively. Details see doi: http://dx.doi.org/10.1101/259390 Multiple entries are separated by ";", corresponding to Ensembl_transcriptid.
+## MetaLR_score : (from dbNSFP) Our logistic regression (LR) based ensemble prediction score, which incorporated 10 scores (SIFT, PolyPhen-2 HDIV, PolyPhen-2 HVAR, GERP++, MutationTaster, Mutation Assessor, FATHMM, LRT, SiPhy, PhyloP) and the maximum frequency observed in the 1000 genomes populations. Larger value means the SNV is more likely to be damaging. Scores range from 0 to 1.
+## MetaRNN_score : (from dbNSFP) Our recurrent neural network (RNN) based ensemble prediction score, which incorporated 16 scores (SIFT, Polyphen2_HDIV, Polyphen2_HVAR, MutationAssessor, PROVEAN, VEST4, M-CAP, REVEL, MutPred, MVP, PrimateAI, DEOGEN2, CADD, fathmm-XF, Eigen and GenoCanyon), 8 conservation scores (GERP, phyloP100way_vertebrate, phyloP30way_mammalian, phyloP17way_primate, phastCons100way_vertebrate, phastCons30way_mammalian, phastCons17way_primate and SiPhy), and allele frequency information from the 1000 Genomes Project (1000GP), ExAC, and gnomAD. Larger value means the SNV is more likely to be damaging. Scores range from 0 to 1.
+## MutPred_score : (from dbNSFP) General MutPred score. Scores range from 0 to 1. The larger the score the more likely the SNP has damaging effect.
+## MutationAssessor_rankscore : (from dbNSFP) MAori scores were ranked among all MAori scores in dbNSFP. The rankscore is the ratio of the rank of the score over the total number of MAori scores in dbNSFP. The scores range from 0 to 1.
+## MutationTaster_AAE : (from dbNSFP) MutationTaster predicted amino acid change.
+## MutationTaster_pred : (from dbNSFP) MutationTaster prediction, "A" ("disease_causing_automatic"), "D" ("disease_causing"), "N" ("polymorphism") or "P" ("polymorphism_automatic"). The score cutoff between "D" and "N" is 0.5 for MTnew and 0.31733 for the rankscore.
+## MutationTaster_score : (from dbNSFP) MutationTaster p-value (MTori), ranges from 0 to 1. Multiple scores are separated by ";". Information on corresponding transcript(s) can be found by querying http://www.mutationtaster.org/ChrPos.html
+## PROVEAN_converted_rankscore : (from dbNSFP) PROVEANori were first converted to PROVEANnew=1-(PROVEANori+14)/28, then ranked among all PROVEANnew scores in dbNSFP. The rankscore is the ratio of the rank the PROVEANnew score over the total number of PROVEANnew scores in dbNSFP. If there are multiple scores, only the most damaging (largest) rankscore is presented. The scores range from 0 to 1.
+## Polyphen2_HDIV_score : (from dbNSFP) Polyphen2 score based on HumDiv, i.e. hdiv_prob. The score ranges from 0 to 1. Multiple entries separated by ";", corresponding to Uniprot_acc.
+## Polyphen2_HVAR_score : (from dbNSFP) Polyphen2 score based on HumVar, i.e. hvar_prob. The score ranges from 0 to 1. Multiple entries separated by ";", corresponding to Uniprot_acc.
+## REVEL_score : (from dbNSFP) REVEL is an ensemble score based on 13 individual scores for predicting the pathogenicity of missense variants. Scores range from 0 to 1. The larger the score the more likely the SNP has damaging effect. "REVEL scores are freely available for non-commercial use. For other uses, please contact Weiva Sieh" (weiva.sieh@mssm.edu)
+## SIFT4G_score : (from dbNSFP) SIFT 4G score (SIFT4G). Scores range from 0 to 1. The smaller the score the more likely the SNP has damaging effect. Multiple scores separated by ",", corresponding to Ensembl_transcriptid
+## SIFT_score : (from dbNSFP) SIFT score (SIFTori). Scores range from 0 to 1. The smaller the score the more likely the SNP has damaging effect. Multiple scores separated by ";", corresponding to Ensembl_proteinid.
+## VEST4_score : (from dbNSFP) VEST 4.0 score. Score ranges from 0 to 1. The larger the score the more likely the mutation may cause functional change. Multiple scores separated by ";", corresponding to Ensembl_transcriptid. Please note this score is free for non-commercial use. For more details please refer to http://wiki.chasmsoftware.org/index.php/SoftwareLicense. Commercial users should contact the Johns Hopkins Technology Transfer office.
+## integrated_fitCons_score : (from dbNSFP) fitCons score predicts the fraction of genomic positions belonging to a specific function class (defined by epigenomic "fingerprint") that are under selective pressure. Scores range from 0 to 1, with a larger score indicating a higher proportion of nucleic sites of the functional class the genomic position belong to are under selective pressure, therefore more likely to be functional important. Integrated (i6) scores are integrated across three cell types (GM12878, H1-hESC and HUVEC). More details can be found in doi:10.1038/ng.3196.
+## phastCons30way_mammalian : (from dbNSFP) phastCons conservation score based on the multiple alignments of 30 mammalian genomes (including human). The larger the score, the more conserved the site. Scores range from 0 to 1. 
+#Uploaded_variation	Location	Allele	Gene	Feature	Feature_type	Consequence	cDNA_position	CDS_position	Protein_position	Amino_acids	Codons	Existing_variation	Extra
+X_130384452_C/A	X:130384452	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384455_T/C	X:130384455	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384470_G/A	X:130384470	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384472_C/T	X:130384472	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384473_G/A	X:130384473	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384473_G/C	X:130384473	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384476_G/A	X:130384476	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384478_G/C	X:130384478	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384483_G/C	X:130384483	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384485_A/G	X:130384485	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384496_G/C	X:130384496	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384506_G/T	X:130384506	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384516_C/G	X:130384516	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384517_T/C	X:130384517	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384518_G/A	X:130384518	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384522_G/A	X:130384522	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384542_G/A	X:130384542	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384548_C/A	X:130384548	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384548_C/T	X:130384548	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384549_A/T	X:130384549	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384571_T/A	X:130384571	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384583_G/T	X:130384583	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384588_C/T	X:130384588	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384589_G/A	X:130384589	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384622_G/T	X:130384622	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384626_G/A	X:130384626	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384643_C/T	X:130384643	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384644_G/A	X:130384644	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384646_C/T	X:130384646	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384647_G/A	X:130384647	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384659_G/A	X:130384659	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384663_C/G	X:130384663	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384663_C/T	X:130384663	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384665_T/-	X:130384665	-	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384671_C/T	X:130384671	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384672_A/G	X:130384672	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384676_G/C	X:130384676	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384680_G/A	X:130384680	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384689_C/G	X:130384689	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384729_G/A	X:130384729	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384733_T/A	X:130384733	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384735_C/T	X:130384735	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384742_G/C	X:130384742	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384748_A/G	X:130384748	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384751_T/A	X:130384751	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384751_T/C	X:130384751	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384766_A/G	X:130384766	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384767_C/-	X:130384767	-	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384774_C/T	X:130384774	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384785_G/A	X:130384785	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384789_T/A	X:130384789	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384790_C/T	X:130384790	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384801_C/G	X:130384801	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384801_C/T	X:130384801	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384810_C/A	X:130384810	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384810_C/T	X:130384810	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384811_G/T	X:130384811	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384815_A/G	X:130384815	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384816_C/T	X:130384816	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384820_C/T	X:130384820	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384832_C/T	X:130384832	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384834_G/A	X:130384834	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384853_T/C	X:130384853	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384859_G/A	X:130384859	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384867_A/C	X:130384867	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384890_G/A	X:130384890	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384894_T/C	X:130384894	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384907_A/G	X:130384907	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384908_G/A	X:130384908	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384911_G/A	X:130384911	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384911_G/C	X:130384911	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384924_A/C	X:130384924	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384926_G/A	X:130384926	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384933_A/G	X:130384933	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384934_C/T	X:130384934	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384952_C/T	X:130384952	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384953_G/A	X:130384953	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384953_G/T	X:130384953	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384956_G/A	X:130384956	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384956_G/C	X:130384956	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384968_T/C	X:130384968	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384977_G/A	X:130384977	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130384991_C/T	X:130384991	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385001_A/T	X:130385001	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385014_A/C	X:130385014	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385024_C/T	X:130385024	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385033_G/A	X:130385033	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385043_G/T	X:130385043	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385046_G/A	X:130385046	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385063_G/A	X:130385063	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385066_C/T	X:130385066	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385072_T/C	X:130385072	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385081_C/T	X:130385081	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385082_G/A	X:130385082	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385087_C/T	X:130385087	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385088_G/A	X:130385088	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385113_C/T	X:130385113	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385132_C/T	X:130385132	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385133_A/G	X:130385133	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385135_G/C	X:130385135	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385136_G/A	X:130385136	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385160_G/C	X:130385160	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385163_C/A	X:130385163	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385163_C/T	X:130385163	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385166_G/-	X:130385166	-	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385167_A/C	X:130385167	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385168_G/A	X:130385168	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385173_G/C	X:130385173	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385179_G/A	X:130385179	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385182_G/A	X:130385182	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385183_C/A	X:130385183	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385183_C/T	X:130385183	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385184_G/A	X:130385184	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385195_C/A	X:130385195	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385200_G/A	X:130385200	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385205_C/T	X:130385205	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385206_C/T	X:130385206	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385207_G/A	X:130385207	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385236_C/T	X:130385236	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385237_G/A	X:130385237	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385287_A/G	X:130385287	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385287_A/T	X:130385287	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385307_C/T	X:130385307	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385308_A/G	X:130385308	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385330_T/C	X:130385330	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385333_C/G	X:130385333	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385345_T/C	X:130385345	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385346_G/A	X:130385346	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385349_G/A	X:130385349	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385354_A/G	X:130385354	G	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385357_G/T	X:130385357	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385358_C/T	X:130385358	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385376_T/C	X:130385376	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385378_G/C	X:130385378	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385384_T/C	X:130385384	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385387_T/C	X:130385387	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385417_G/T	X:130385417	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385423_C/A	X:130385423	A	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385423_C/T	X:130385423	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385438_A/C	X:130385438	C	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
+X_130385444_C/T	X:130385444	T	-	-	-	intergenic_variant	-	-	-	-	-	-	IMPACT=MODIFIER
