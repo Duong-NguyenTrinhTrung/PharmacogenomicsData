@@ -1,0 +1,885 @@
+﻿id;name;parent_id
+D06AA;Tetracycline and derivatives;D06A
+D06AX;Other antibiotics for topical use;D06A
+D06BA;Sulfonamides;D06B
+D06BB;Antivirals;D06B
+D06BX;Other chemotherapeutics;D06B
+D07AA;"Corticosteroids, weak (group i)";D07A
+D07AB;"Corticosteroids, moderately potent (group ii)";D07A
+D07AC;"Corticosteroids, potent (group iii)";D07A
+D07AD;"Corticosteroids, very potent (group iv)";D07A
+D07BB;"Corticosteroids, moderat. potent, comb w/antisept.";D07B
+D07BC;"Corticosteroids, potent, comb with antiseptics";D07B
+D07CA;"Corticosteroids, weak, comb with antibiotics";D07C
+D07CB;"Corticosteroids, moderat. potent, comb w/antibiot.";D07C
+D07CC;"Corticosteroids, potent, comb with antibiotics";D07C
+D07XA;"Corticosteroids, weak, other combinations";D07X
+D07XB;"Corticosteroids, moderately potent, other comb.";D07X
+D07XC;"Corticosteroids, potent, other combinations";D07X
+D08AB;Aluminium agents;D08A
+D08AC;Biguanides and amidines;D08A
+D08AD;Boric acid products;D08A
+D08AF;Furan derivatives;D08A
+D08AG;Iodine products;D08A
+D08AL;Silver compounds;D08A
+D08AX;Other antiseptics and disinfectants;D08A
+D09AA;Ointment dressings with antiinfectives;D09A
+D09AB;Zinc bandages;D09A
+D10AA;"Corticosteroids,combinations for treatment of acne";D10A
+D10AD;Retinoids for topical use in acne;D10A
+D10AE;Peroxides;D10A
+D10AF;Antiinfectives for treatment of acne;D10A
+D10AX;Other anti-acne preparations for topical use;D10A
+D10BA;Retinoids for treatment of acne;D10B
+D11AA;Antihidrotics;D11A
+D11AC;Medicated shampoos;D11A
+D11AF;Wart and anti-corn preparations;D11A
+D11AH;"Agents for dermatitis, excluding corticosteroids";D11A
+D11AX;Other dermatologicals;D11A
+G01AA;Antibiotics;G01A
+G01AF;Imidazole derivatives;G01A
+G01AG;Triazole derivatives;G01A
+G01AX;Other antiinfectives and antiseptics;G01A
+G02AB;Ergot alkaloids;G02A
+G02AD;Prostaglandins;G02A
+G02BA;Intrauterine contraceptives;G02B
+G02BB;Intravaginal contraceptives;G02B
+G02CA;"Sympathomimetics, labour repressants";G02C
+G02CB;Prolactine inhibitors;G02C
+G02CX;Other gynecologicals;G02C
+G03AA;"Progestogens and estrogens, fixed combinations";G03A
+G03AB;"Progestogens and estrogens,sequential preparations";G03A
+G03AC;Progestogens;G03A
+G03AD;Emergency contraceptives;G03A
+G03BA;3-oxoandrosten (4) derivatives;G03B
+G03BB;5-androstanon (3) derivatives;G03B
+G03CA;"Natural and semisynthetic estrogens, plain";G03C
+G03CB;"Synthetic estrogens, plain";G03C
+G03CX;Other estrogens;G03C
+G03DA;Pregnen (4) derivatives;G03D
+G03DB;Pregnadien derivatives;G03D
+G03DC;Estren derivatives;G03D
+G03FA;"Progestogens and estrogens, combinations";G03F
+G03FB;"Progestogens and estrogens,sequential preparations";G03F
+G03GA;Gonadotropins;G03G
+G03GB;"Ovulation stimulants, synthetic";G03G
+G03HA;"Antiandrogens, plain preparations";G03H
+G03HB;Antiandrogens and estrogens;G03H
+G03XA;Antigonadotrophins and similar agents;G03X
+G03XB;Antiprogestogens;G03X
+G03XC;Selective estrogen receptor modulators;G03X
+G04BD;Urinary antispasmodics;G04B
+G04BE;Drugs used in erectile dysfunction;G04B
+G04CA;Alpha-adrenoreceptor antagonists;G04C
+G04CB;Testosterone-5-alpha reductase inhibitors;G04C
+H01AA;Acth;H01A
+H01AB;Thyrotrophin;H01A
+H01AC;Somatropin and somatropin agonists;H01A
+H01AX;Other anterior pituitary hormones and analogues;H01A
+H01BA;Vasopressin and analogues;H01B
+H01BB;Oxytocin and analogues;H01B
+H01CA;Gonadotrophin-releasing hormones;H01C
+H01CB;Somatostatin and analogues;H01C
+H01CC;Anti gonadotropin releasing hormones;H01C
+H02AA;Mineralocorticoids;H02A
+H02AB;Glucocorticoids;H02A
+H03AA;Thyroid hormones;H03A
+H03BA;Thiouracils;H03B
+H03BB;Sulphur-containing imidazole derivatives;H03B
+H03CA;Iodine therapy;H03C
+H04AA;Glycogenolytic hormones;H04A
+H05AA;Parathyroid hormones and analogues;H05A
+H05BA;Calcitonin preparations;H05B
+H05BX;Other anti-parathyroid agents;H05B
+J01AA;Tetracyclines;J01A
+J01BA;Amphenicols;J01B
+R01AD;Corticosteroids;R01A
+R01AX;Other nasal preparations;R01A
+R01BA;Sympathomimetics;R01B
+R02AA;Antiseptics;R02A
+R02AD;"Anesthetics, local";R02A
+R02AX;Other throat preparations;R02A
+R03AA;Alpha- and beta-adrenoceptor agonists;R03A
+R03AC;Selective beta-2-adrenoceptor agonists;R03A
+R03AK;Adrenergics and other drugs for obstructive airway diseases;R03A
+R03BA;Glucocorticoids;R03B
+R03BB;Anticholinergics;R03B
+R03BC;"Antiallergic agents, excl corticosteroids";R03B
+R03CB;Non-selective beta-adrenoceptor agonists;R03C
+R03CC;Selective beta-2-adrenoceptor agonists;R03C
+R03DA;Xanthines;R03D
+R03DC;Leukotriene receptor antagonists;R03D
+R03DX;Other systemic drugs for obstructive airway diseases;R03D
+R05CA;Expectorants;R05C
+R05CB;Mucolytics;R05C
+R05DA;Opium alkaloids and derivatives;R05D
+R05DB;Other cough suppressants;R05D
+R05FA;Opium derivatives and expectorants;R05F
+R06AA;Aminoalkyl ethers;R06A
+R06AB;Substituted alkylamines;R06A
+R06AC;Substituted ethylene diamines;R06A
+R06AD;Phenothiazine derivatives;R06A
+R06AE;Piperazine derivatives;R06A
+R06AX;Other antihistamines for systemic use;R06A
+R07AA;Lung surfactants;R07A
+R07AB;Respiratory stimulants;R07A
+R07AX;Other respiratory system products;R07A
+S01AA;Antibiotics;S01A
+S01AB;Sulfonamides;S01A
+S01AD;Antivirals;S01A
+S01AX;Other antiinfectives;S01A
+S01BA;"Corticosteroids, plain";S01B
+S01BC;"Antiinflammatory agents, non-steroids";S01B
+S01CA;Corticosteroids and antiinfectives in combination;S01C
+S01EA;Sympathomimetics in glaucoma therapy;S01E
+S01EB;Parasympathomimetics;S01E
+S01EC;Carbonic anhydrase inhibitors;S01E
+S01ED;Beta blocking agents;S01E
+S01EE;Prostaglandin analogues;S01E
+S01FA;Anticholinergics;S01F
+S01FB;Sympathomimetics excl. antiglaucoma preparations;S01F
+S01GA;Sympathomimetics used as decongestants;S01G
+S01GX;Other antiallergics;S01G
+S01HA;Local anesthetics;S01H
+S01JA;Colouring agents;S01J
+J07AG;Hemophilus influenza b vaccines;J07A
+J07AH;Meningococcal vaccines;J07A
+J01CA;Penicillins with extended spectrum;J01C
+J01CE;Beta-lactamase sensitive penicillins;J01C
+J01CF;Beta-lactamase resistant penicillins;J01C
+J01CR;"Comb of penicillins, incl. beta-lactamase inhib.";J01C
+J01DB;First-generation cephalosporins;J01D
+J01DC;Second-generation cephalosporins;J01D
+J01DD;Third-generation cephalosporins;J01D
+J01DE;Fourth-generation cephalosporins;J01D
+J01DF;Monobactams;J01D
+J01DH;Carbapenems;J01D
+J01EA;Trimethoprim and derivatives;J01E
+J01EB;Short-acting sulfonamides;J01E
+J01EC;Intermediate-acting sulfonamides;J01E
+J01EE;Comb.sulfonamides & trimethoprim incl. derivatives;J01E
+J01FA;Macrolides;J01F
+J01FF;Lincosamides;J01F
+J01GB;Other aminoglycosides;J01G
+J01MA;Fluoroquinolones;J01M
+J01MB;Other quinolones;J01M
+J01RA;Combinations of antibacterials;J01R
+J01XA;Glycopeptide antibacterials;J01X
+J01XB;Polymyxins;J01X
+J01XC;Steroid antibacterials;J01X
+J01XD;Imidazole derivatives;J01X
+J01XE;Nitrofuran derivatives;J01X
+J01XX;Other antibacterials;J01X
+J02AA;Antibiotics;J02A
+J02AB;Imidazole derivatives;J02A
+J02AC;Triazole derivatives;J02A
+J02AX;Other antimycotics for systemic use;J02A
+J04AB;Antibiotics;J04A
+J04AC;Hydrazides;J04A
+J04AK;Other drugs for treatment of tuberculosis;J04A
+J04AM;Comb. of drugs for treatment of tuberculosis;J04A
+J04BA;Drugs for treatment of lepra;J04B
+J05AB;Nucleosides and nucleotides excl. reverse transcriptase inhibitors;J05A
+J05AD;Phosphonic acid derivatives;J05A
+J05AE;Protease inhibitors;J05A
+J05AF;Nucleoside and nucleotide reverse transcriptase inhibitors;J05A
+J05AG;Non-nucleoside reverse transcriptase inhibitors;J05A
+J05AH;Neuraminidase inhibitors;J05A
+J05AR;"Antivirals for treatment of hiv infections, comb.";J05A
+J05AX;Other antivirals;J05A
+J06AA;Immune sera;J06A
+J06BA;"Immunoglobulins, normal human";J06B
+J06BB;Specific immunoglobulins;J06B
+J07AC;Anthrax vaccines;J07A
+J07AE;Cholera vaccines;J07A
+J07AF;Diphtheria vaccines;J07A
+J07AJ;Pertussis vaccines;J07A
+J07AL;Pneumococcal vaccines;J07A
+J07AM;Tetanus vaccines;J07A
+J07AN;Tuberculosis vaccines;J07A
+J07AP;Typhoid vaccines;J07A
+J07BA;Encephalitis vaccines;J07B
+J07BB;Influenza vaccines;J07B
+J07BC;Hepatitis vaccines;J07B
+J07BD;Measles vaccines;J07B
+J07BE;Mumps vaccines;J07B
+J07BF;Poliomyelitis vaccines;J07B
+J07BG;Rabies vaccines;J07B
+J07BH;Rota virus diarrhea vaccines;J07B
+J07BJ;"Rubella, vaccines";J07B
+J07BK;Varicella zoster vaccines;J07B
+J07BL;Yellow fever vaccines;J07B
+J07BM;Papillomavirus vaccines;J07B
+J07CA;"Bacterial and viral vaccines, combined";J07C
+L01AA;Nitrogen mustard analogues;L01A
+L01AB;Alkyl sulphonates;L01A
+L01AC;Ethylene imines;L01A
+L01AD;Nitrosoureas;L01A
+L01AX;Other alkylating agents;L01A
+L01BA;Folic acid analogues;L01B
+L01BB;Purine analogues;L01B
+L01BC;Pyrimidine analogues;L01B
+L01CA;Vinca alkaloids and analogues;L01C
+L01CB;Podophyllotoxin derivatives;L01C
+L01CD;Taxanes;L01C
+L01CX;Other plant alkaloids and natural products;L01C
+L01DB;Anthracyclines and related substances;L01D
+L01DC;Other cytotoxic antibiotics;L01D
+L01XA;Platinum compounds;L01X
+L01XC;Monoclonal antibodies;L01X
+L01XD;Sensitizers used in photodynamic/radiation therapy;L01X
+L01XE;Protein kinase inhibitors;L01X
+L01XX;Other antineoplastic agents;L01X
+L02AA;Estrogens;L02A
+L02AB;Progestogens;L02A
+L02AE;Gonadotrophin releasing hormone analogues;L02A
+L02BA;Anti-estrogens;L02B
+L02BB;Anti-androgens;L02B
+L02BG;Aromatase inhibitors;L02B
+L02BX;Other hormone antagonists and related agents;L02B
+L03AA;Colony stimulating factors;L03A
+L03AB;Interferons;L03A
+L03AC;Interleukins;L03A
+L03AX;Other immunostimulants;L03A
+L04AA;Selective immunosuppressants;L04A
+L04AB;Tumor necrosis factor alpha (tnf-alpha) inhibitors;L04A
+L04AC;Interleukin inhibitors;L04A
+L04AD;Calcineurin inhibitors;L04A
+L04AX;Other immunosuppressants;L04A
+M01AA;Butylpyrazolidines;M01A
+M01AB;Acetic acid derivatives and related substances;M01A
+M01AC;Oxicams;M01A
+M01AE;Propionic acid derivatives;M01A
+M01AG;Fenamates;M01A
+M01AH;Coxibs;M01A
+M01AX;"Other antiinfl./antirheumatic agents, non-steroids";M01A
+M01CB;Gold preparations;M01C
+A01AA;Caries prophylactic agents;A01A
+A01AB;Antiinfectives for local oral treatment;A01A
+A01AC;Corticosteroids for local oral treatment;A01A
+A01AD;Other agents for local oral treatment;A01A
+A02AA;Magnesium compounds;A02A
+A02AB;Aluminium compounds;A02A
+A02AC;Calcium compounds;A02A
+A02AD;"Combinations and complexes of aluminium, calcium and magnesium compounds";A02A
+A02AF;Antacids with antiflatulents;A02A
+A02AH;Antacids with sodium bicarbonate;A02A
+A02BA;H2-receptor antagonists;A02B
+A02BB;Prostaglandins;A02B
+A02BC;Proton pump inhibitors;A02B
+A02BX;Other drugs peptic ulcer and gastro-oesophageal reflux disease (gord);A02B
+A03AA;"Synt anticholin,esters with tertiary amino group";A03A
+A03AB;"Synth. anticholinergics, quatern. ammonium comp.";A03A
+A03AD;Papaverine and derivatives;A03A
+A03AE;Drugs acting on serotonin receptors;A03A
+A03AX;Other drugs for functional bowel disorders;A03A
+A03BA;"Belladonna alkaloids, tertiary amines";A03B
+A03BB;"Belladonna alkaloids semisynt,quater ammonium comp";A03B
+A03FA;Propulsives;A03F
+A04AA;Serotonin (5ht3) antagonists;A04A
+A04AD;Other antiemetics;A04A
+A06AB;Contact laxatives;A06A
+A06AC;Bulk producers;A06A
+A06AD;Osmotically acting laxatives;A06A
+A06AG;Enemas;A06A
+A06AH;Peripheral opioid receptor antagonists;A06A
+A06AX;Other laxatives;A06A
+A07AA;Antibiotics;A07A
+A07AC;Imidazole derivatives;A07A
+A07BA;Charcoal preparations;A07B
+A07BB;Bismuth preparations;A07B
+A07CA;Oral rehydration salt formulations;A07C
+A07DA;Antipropulsives;A07D
+A07EA;Corticosteroids acting locally;A07E
+A07EB;"Antiallergic agents, excl corticosteroids";A07E
+A07EC;Aminosalicylic acid and similar agents;A07E
+A07FA;Antidiarrheal microorganisms;A07F
+A08AA;Centrally acting antiobesity products;A08A
+A08AB;Peripherally acting antiobesity products;A08A
+A08AX;Other antiobesity drugs;A08A
+A09AA;Enzyme preparations;A09A
+A10AB;"Insulins and analogues for injection, fast-acting";A10A
+A10AC;"Insulins and analogues for injection, intermediate-acting";A10A
+A10AD;"Insulins and analogues for injection, intermed.act. comb. w. fast-act.";A10A
+A10AE;"Onsulins and analogues for injection, long-acting";A10A
+A10BA;Biguanides;A10B
+A10BB;"Sulfonamides, urea derivatives";A10B
+A10BD;Comb. of oral blood glucose lowering drugs;A10B
+A10BF;Alpha glucosidase inhibitors;A10B
+A10BG;Thiazolinediones;A10B
+A10BH;Dipeptidyl peptidase 4 (dpp-4) inhibitors;A10B
+A10BX;"Other  blood glucose lowering drugs, excl. insulins";A10B
+A11AA;Multivitamins with minerals;A11A
+A11BA;"Multivitamins, plain";A11B
+A11CA;"Vitamin a, plain";A11C
+A11CB;Vitamin a and d in combination;A11C
+A11CC;Vitamin d and analogues;A11C
+A11DA;"Thiamine (vit b1), plain";A11D
+A11EA;"Vitamin b-complex, plain";A11E
+A11GA;"Ascorbic acid (vit c), plain";A11G
+A11HA;Other plain vitamin preparations;A11H
+A12AA;Calcium;A12A
+A12AX;"Calcium, combinations with vitamin d and/or other drugs";A12A
+A12BA;Potassium;A12B
+A12CA;Sodium;A12C
+A12CB;Zinc;A12C
+A14AB;Estren derivatives;A14A
+A16AA;Amino acids and derivatives;A16A
+A16AB;Enzymes;A16A
+A16AX;Various alimentary tract and metabolism products;A16A
+B01AA;Vitamin k antagonists;B01A
+B01AB;Heparin group;B01A
+B01AC;Platelet aggregation inhibitors excl. heparin;B01A
+B01AD;Enzymes;B01A
+B01AE;Direct thrombin inhibitors;B01A
+B01AX;Other antithrombotic agents;B01A
+B02AA;Amino acids;B02A
+B02AB;Proteinase inhibitors;B02A
+B02BA;Vitamin k;B02B
+B02BB;Fibrinogen;B02B
+B02BC;Local hemostatics;B02B
+B02BD;Blood coagulation factors;B02B
+B02BX;Other systemic hemostatics;B02B
+B03AA;"Iron bivalent, oral preparations";B03A
+B03AB;"Iron trivalent, oral preparations";B03A
+B03AC;"Iron trivalent, parenteral preparations";B03A
+B03AE;Iron in other combinations;B03A
+B03BA;Vitamin b12 (cyanocobalamin and derivatives);B03B
+B03BB;Folic acid and derivatives;B03B
+B03XA;Other antianemic preparations;B03X
+B05AA;Blood substitutes and plasma protein fractions;B05A
+B05BA;Solutions for parenteral nutrition;B05B
+B05BB;Solutions affecting the electrolyte balance;B05B
+B05BC;Solutions producing osmotic diuresis;B05B
+B05CA;Antiinfectives;B05C
+B05CB;Salt solutions;B05C
+B05CX;Other irrigating solutions;B05C
+B05DA;Isotonic solutions;B05D
+B05DB;Hypertonic solutions;B05D
+B05XA;Electrolyte solutions;B05X
+B05XB;Amino acids;B05X
+B05XC;Vitamins;B05X
+B05ZA;"Hemodialytics, concentrates";B05Z
+B05ZB;Hemofiltrates;B05Z
+B06AA;Enzymes;B06A
+B06AB;Other hem products;B06A
+B06AC;Drugs used in hereditary angioedema;B06A
+C01AA;Digitalis glycosides;C01A
+C01BA;"Antiarrhythmics, class ia";C01B
+C01BB;"Antiarrhythmics, class ib";C01B
+C01BC;"Antiarrhythmics, class ic";C01B
+C01BD;"Antiarrhythmics, class iii";C01B
+C01BG;"Other antiarrhythmics, class i and iii";C01B
+C01CA;Adrenergic and dopaminergic agents;C01C
+C01DA;Organic nitrates;C01D
+C01DX;Other vasodilators used in cardiac diseases;C01D
+C01EA;Prostaglandins;C01E
+C01EB;Other cardiac preparations;C01E
+C02AB;Methyldopa;C02A
+C02AC;Imidazoline receptor agonists;C02A
+C02CA;Alpha - adrenoceptor blocking agents;C02C
+C02DB;Hydrazinophthalazine derivatives;C02D
+C02DD;Nitroferricyanide derivatives;C02D
+C02DG;Guanidine derivatives;C02D
+C02KX;Other antihypertensives;C02K
+C03AA;"Thiazides, plain";C03A
+C03AB;Thiazides and potassium in combination;C03A
+C03BA;"Sulfonamides, plain";C03B
+C03BB;Sulfonamides and potassium in combination;C03B
+C03CA;"Sulfonamides, plain";C03C
+C03CB;Sulfonamides and potassium in combination;C03C
+C03DA;Aldosterone antagonists;C03D
+C03DB;Other potassium-sparing agents;C03D
+C03EA;Low-ceiling diuretics and potassium-sparing agents;C03E
+C03EB;High-ceiling diuretics and potassium-sparing agent;C03E
+C03XA;Vasopressin antagonists;C03X
+C04AB;Imidazoline derivatives;C04A
+C04AD;Purine derivatives;C04A
+C05AA;Corticosteroids;C05A
+C05AD;Local anesthetics;C05A
+C05AE;Musclerelaxants;C05A
+C05AX;Other agents for treatment of hemorrhoids and anal fissures for topical use;C05A
+C05BA;Heparins or heparinoids for topical use;C05B
+C05BB;Sclerosing agents for local injection;C05B
+C05CA;Bioflavonoids;C05C
+C07AA;"Beta blocking agents, plain, non-selective";C07A
+C07AB;"Beta blocking agents, plain, selective";C07A
+C07AG;Alpha- and beta blocking agents;C07A
+C07BA;"Beta blocking agents, non-selective, and thiazides";C07B
+C07BB;"Beta blocking agents, selective, and thiazides";C07B
+C07CA;"Beta blocking agents,non-selective,other diuretics";C07C
+C07CB;"Beta blocking agents,selective,and other diuretics";C07C
+C07FB;Beta block. selective and other antihypertensives;C07F
+C08CA;Dihydropyridine derivatives;C08C
+C08CX;Other selective calcium channel blockers w. mainly vascular effects;C08C
+C08DA;Phenylalkylamine derivatives;C08D
+C08DB;Benzothiazepine derivatives;C08D
+C09AA;"Ace-inhibitors, plain";C09A
+C09BA;Ace-inhibitors and diuretics;C09B
+C09BB;Ace-inhibitors and calcium channel blockers;C09B
+C09CA;"Angiotensin ii antagonists, plain";C09C
+C09DA;Angiotensin ii antagonists and diuretics;C09D
+C09DB;Angiotensin ii antagonists and calcium channel blockers;C09D
+C09DX;"Angiotensin ii antagonists, other combinations";C09D
+C09XA;Renin-inhibitors;C09X
+C10AA;Hmg coa reductase inhibitors;C10A
+C10AB;Fibrates;C10A
+C10AC;Bile acid sequestrants;C10A
+C10AD;Nicotinic acid and derivatives;C10A
+C10AX;Other lipid modifying agents;C10A
+C10BA;Hmg coa reductase inhibitors in comb. with other lipid modifying agents;C10B
+D01AA;Antibiotics;D01A
+D01AC;Imidazole and triazole derivatives;D01A
+D01AE;Other antifungals for topical use;D01A
+D01BA;Antifungals for systemic use;D01B
+D02AA;Silicone products;D02A
+D02AB;Zinc oxide products;D02A
+D02AC;Soft paraffin and fat products;D02A
+D02AE;Carbamide products;D02A
+D02AF;Salicylic acid preparations;D02A
+D02AX;Other emollients and protectives;D02A
+D03AA;Cod-liver oil ointments;D03A
+D03AX;Other cicatrizants;D03A
+D04AA;Antihistamines for topical use;D04A
+D04AB;Anesthetics for topical use;D04A
+D04AX;Other antipruritics;D04A
+D05AA;Tars;D05A
+D05AC;Antracen derivatives;D05A
+D05AX;Other antipsoriatics for topical use;D05A
+D05BA;Psoralens for systemic use;D05B
+D05BB;Retinoids for treatment of psoriasis;D05B
+M01CC;Penicillamine and similar agents;M01C
+M02AA;"Antiinfl. prep., non-steroids for topical use";M02A
+M03AB;Choline derivatives;M03A
+M03AC;Other quaternary ammonium compounds;M03A
+M03AX;"Other muscle relaxants,peripherally acting";M03A
+M03BA;Carbamic acid esters;M03B
+M03BB;"Oxazol-, thiazine-, triazine derivatives";M03B
+M03BC;"Ethers, chemically close to antihistamines";M03B
+M03BX;Other centrally acting agents;M03B
+M03CA;Dantrolene and derivatives;M03C
+M04AA;Preparations inhibiting uric acid production;M04A
+M04AB;Preparations increasing uric acid excretion;M04A
+M04AC;Preparations w. no effect on uric acid metabolism;M04A
+M05BA;Bisphosphonates;M05B
+M05BB;"Bisphosphonates, combinations";M05B
+M05BC;Bone morphogenetic proteins;M05B
+M05BX;Other drugs affecting mineralization;M05B
+M09AB;Enzymes;M09A
+M09AX;Other drugs for disorders of musculo-skeletal syst;M09A
+N01AB;Halogenated hydrocarbons;N01A
+N01AF;"Barbiturates, plain";N01A
+N01AH;Opioid anesthetics;N01A
+N01AX;Other general anesthetics;N01A
+N01BA;Esters of amino benzoic acid;N01B
+N01BB;Amides;N01B
+N01BC;Esters of benzoic acid;N01B
+N01BX;Other local anesthetics;N01B
+N02AA;Natural opium alkaloids;N02A
+N02AB;Phenylpiperidine derivatives;N02A
+N02AC;Diphenylpropylamine derivatives;N02A
+N02AD;Benzomorphan derivatives;N02A
+N02AE;Oripavine derivatives;N02A
+N02AG;Opioids in comb with antispasmodics;N02A
+N02AX;Other opioids;N02A
+N02BA;Salicylic acid derivatives;N02B
+N02BB;Pyrazolones;N02B
+N02BE;Anilides;N02B
+N02BG;Other analgesics and antipyretics;N02B
+N02CA;Ergot alkaloids;N02C
+N02CC;Selective 5ht(1)-receptor agonists;N02C
+N02CX;Other antimigraine preparations;N02C
+N03AA;Barbiturates and derivatives;N03A
+N03AB;Hydantoin derivatives;N03A
+N03AD;Succinimide derivatives;N03A
+N03AE;Benzodiazepine derivatives;N03A
+N03AF;Carboxamide derivatives;N03A
+N03AG;Fatty acid derivatives;N03A
+N03AX;Other antiepileptics;N03A
+N04AA;Tertiary amines with carbon chain;N04A
+N04AB;Ethers chemically close to antihistamines;N04A
+N04AC;Ethers of tropine or tropine derivatives;N04A
+N04BA;Dopa and dopa derivatives;N04B
+N04BB;Adamantane derivatives;N04B
+N04BC;Dopamine agonists;N04B
+N04BD;Monoamine oxidase type b inhibitors;N04B
+N04BX;Other dopaminergic agents;N04B
+N05AA;Phenothiazine with aliphatic side chain;N05A
+N05AB;Phenothiazine with piperazine structure;N05A
+N05AC;Phenothiazine with piperidine structure;N05A
+N05AD;Butyrophenone derivatives;N05A
+N05AE;Indole derivatives;N05A
+N05AF;Thioxanthene derivatives;N05A
+N05AG;Diphenylbutylpiperidine derivatives;N05A
+N05AH;"Diazepines, oxazepines, thiazepines and oxepines";N05A
+N05AL;Benzamides;N05A
+N05AN;Lithium;N05A
+N05AX;Other antipsychotics;N05A
+N05BA;Benzodiazepine derivatives;N05B
+N05BB;Diphenylmethane derivatives;N05B
+N05BE;Azaspirodecanedione derivatives;N05B
+N05CA;"Barbiturates, plain";N05C
+N05CC;Aldehydes and derivatives;N05C
+N05CD;Benzodiazepine derivatives;N05C
+N05CF;Benzodiazepine related drugs;N05C
+N05CH;Melatonin receptor agonists;N05C
+N05CM;Other hypnotics and sedatives;N05C
+N06AA;Non selective monoamine reuptake inhibitors;N06A
+N06AB;Selective serotonin reuptake inhibitors;N06A
+N06AF;"Monoamine oxidase inhibitors, non-selective";N06A
+N06AG;Monoamine oxidase type a inhibitors;N06A
+N06AX;Other antidepressants;N06A
+N06BA;Centrally acting sympathomimetics;N06B
+N06BC;Xanthine derivatives;N06B
+N06DA;Anticholinesterases;N06D
+N06DX;Other anti-dementia drugs;N06D
+N07AA;Anticholinesterases;N07A
+N07AB;Choline esters;N07A
+N07BA;Drugs used in nicotine dependence;N07B
+N07BB;Drugs used in alcohol dependence;N07B
+N07BC;Drugs used in opioid dependence;N07B
+N07CA;Antivertigo preparations;N07C
+N07XX;Other nervous system drugs;N07X
+P01AB;Nitroimidazole derivatives;P01A
+P01AX;Other agents against amoebiasis;P01A
+P01BA;Aminoquinolines;P01B
+P01BB;Biguanides;P01B
+P01BC;Methanolquinolines;P01B
+P01BD;Diaminopyrimidines;P01B
+P01CX;Other agents against leishmaniasis&trypanosomiasis;P01C
+P02CA;Benzimidazole derivatives;P02C
+P02CX;Other antinematodals;P02C
+P02DA;Salicylic acid derivatives;P02D
+P03AB;Chlorine containing products;P03A
+P03AC;"Pyrethrines, incl synthetic compounds";P03A
+P03AX;"Other ectoparasiticides, incl scabicides";P03A
+R01AA;"Sympathomimetics, plain";R01A
+R01AB;"Sympathomimetics,combinations excl corticosteroids";R01A
+R01AC;"Antiallergic agents, excl corticosteroids";R01A
+S01KA;Viscoelastic substances;S01K
+S01LA;Antineovascularisation agents;S01L
+S01XA;Other ophthalmologicals;S01X
+S02AA;Antiinfectives;S02A
+S02CA;Corticosteroids and antiinfectives in combination;S02C
+S03AA;Antiinfectives;S03A
+S03BA;Corticosteroids;S03B
+S03CA;Corticosteroids and antiinfectives in combination;S03C
+V01AA;Allergen extracts;V01A
+V03AB;Antidotes;V03A
+V03AC;Iron chelating agents;V03A
+V03AE;Drugs for treatment of hyperkalemia and hyperphosphatemia;V03A
+V03AF;Detoxifying agents for cytostatic treatment;V03A
+V03AG;Drugs for treatment of hypercalcemia;V03A
+V03AN;Medical gases;V03A
+V04CC;Tests for bile duct potency;V04C
+V04CD;Tests for pituitary function;V04C
+V04CE;Tests for liver functional capacity;V04C
+V04CF;Tuberculosis diagnostics;V04C
+V04CG;Tests for gastric secretion;V04C
+V04CH;Tests for renal function;V04C
+V04CJ;Tests for thyreoidea function;V04C
+V04CL;Tests for allergic diseases;V04C
+V04CX;Other diagnostic agents;V04C
+V07AB;"Solvents and diluting agents,incl irrigat solut";V07A
+V07AC;"Blood transfusion, auxiliary products";V07A
+V08AA;"Watersoluble, nephrotropic, high osmolar x-ray contrast media";V08A
+V08AB;"Watersoluble, nephrotropic, low osmolar x-ray contrast media";V08A
+V08AD;Non-watersoluble x-ray contrast media;V08A
+V08BA;Barium sulphate containing x-ray contrast media;V08B
+V08CA;Paramagnetic contrast media;V08C
+V08CB;Superparamagnetic contrast media;V08C
+V08DA;Ultrasound contrast media;V08D
+L01EB;Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors;L01E
+L01EC;B-Raf serine-threonine kinase (BRAF) inhibitors;L01E
+L01ED;Anaplastic lymphoma kinase (ALK) inhibitors;L01E
+L01EE;Mitogen-activated protein kinase (MEK) inhibitors;L01E
+L01EF;Cyclin-dependent kinase (CDK) inhibitors;L01E
+L01EG;Mammalian target of rapamycin (mTOR) kinase inhibitors;L01E
+L01EH;Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors;L01E
+L01EJ;Janus-associated kinase (JAK) inhibitors;L01E
+L01EK;Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors;L01E
+L01EL;Bruton's tyrosine kinase (BTK) inhibitors;L01E
+L01EM;Phosphatidylinositol-3-kinase (Pi3K) inhibitors;L01E
+L01EN;Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors;L01E
+L01EX;Other protein kinase inhibitors;L01E
+L01FD;HER2 (Human Epidermal Growth Factor Receptor 2) Inhibitors;L01F
+L01FF;PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) Inhibitors;L01F
+L01FX;Other monoclonal antibodies and antibody drug conjugates;L01F
+L01XB;Methylhydrazines;L01X
+L01XF;Retinoids for cancer treatment;L01X
+L01XG;Proteasome inhibitors;L01X
+L01XH;Histone deacetylase (HDAC) inhibitors;L01X
+L01XJ;Hedgehog pathway inhibitors;L01X
+L01XK;Poly (ADP-ribose) Polymerase (PARP) Inhibitors;L01X
+M01BA;Anti-inflammatory/antirheumatic agents in combination with corticosteroids;M01B
+M01CA;Quinolines;M01C
+M01CX;Other specific antirheumatic agents;M01C
+M03AA;Curare alkaloids;M03A
+M04AX;Other antigout preparations;M04A
+M09AA;Quinine and derivatives;M09A
+N01AG;Barbiturates in combination with other drugs;N01A
+N02AF;Morphinan derivatives;N02A
+N02AJ;Opioids in combination with non-opioid analgesics;N02A
+N02CB;Corticosteroid derivatives;N02C
+N02CD;Calcitonin gene-related peptide (CGRP) antagonists;N02C
+N03AC;Oxazolidine derivatives;N03A
+N05BC;Carbamates;N05B
+N05BD;Dibenzo-bicyclo-octadiene derivatives;N05B
+N05BX;Other anxiolytic drugs;N05B
+N05CB;"Barbiturates, combinations";N05C
+N05CE;Piperidinedione drugs;N05C
+N05CX;"Hypnotics and sedatives in combination, excluding barbiturates";N05C
+N06BX;Other psychostimulants and nootropics;N06B
+N06CA;Antidepressants in combination with psycholeptics;N06C
+N07AX;Other parasympathomimetics;N07A
+P01AC;Dichloroacetamide derivatives;P01A
+P01AR;Arsenic compounds;P01A
+P01BE;"Artemisinin and derivatives, plain";P01B
+P01BF;"Artemisinin and derivatives, combinations";P01B
+P01BX;Other antimalarials;P01B
+P01CA;Nitroimidazole derivatives;P01C
+P01CB;Antimony compounds;P01C
+P01CC;Nitrofuran derivatives;P01C
+P01CD;Arsenic compounds;P01C
+P02BA;Quinoline derivatives and related substances;P02B
+P02BB;Organophosphorous compounds;P02B
+P02BX;Other antitrematodal agents;P02B
+P02CB;Piperazine and derivatives;P02C
+P02CC;Tetrahydropyrimidine derivatives;P02C
+P02CE;Imidazothiazole derivatives;P02C
+P02CF;Avermectines;P02C
+P02DX;Other anticestodals;P02D
+P03AA;Sulfur containing products;P03A
+P03BA;Pyrethrines;P03B
+P03BX;Other insecticides and repellents;P03B
+R03AB;Non-selective beta-adrenoreceptor agonists;R03A
+R03AH;Combinations of adrenergics;R03A
+R03AL;Adrenergics in combination with anticholinergics;R03A
+R03BX;"Other drugs for obstructive airway diseases, inhalants";R03B
+R03CA;Alpha- and beta-adrenoreceptor agonists;R03C
+R03CK;Adrenergics and other drugs for obstructive airway diseases;R03C
+R03DB;Xanthines and adrenergics;R03D
+R05FB;Other cough suppressants and expectorants;R05F
+S01AE;Eye Fluoroquinolones;S01A
+S01BB;Corticosteroids and mydriatics in combination;S01B
+S01CB;Corticosteroids / anti-infectives / mydriatics in combination;S01C
+S01CC;"Anti-inflammatory agents, non-steroids and anti-infectives in combination";S01C
+S01EX;Other antiglaucoma preparations;S01E
+S01KX;Other surgical aids;S01K
+S02BA;Corticosteroids;S02B
+S02DA;Analgesics and anesthetics;S02D
+V03AH;Drugs for treatment of hypoglycaemia;V03A
+V03AK;Tissue adhesives;V03A
+V03AM;Drugs for embolisation;V03A
+V03AX;Other therapeutic products;V03A
+V03AZ;Nerve depressants;V03A
+V04CA;Tests for diabetes;V04C
+V04CB;Tests for fat absorption;V04C
+V04CK;Tests for pancreatic function;V04C
+V04CM;Tests for fertility disturbances;V04C
+V06DC;Carbohydrate;V06D
+A02BD;Combinations for eradication of Helicobacter pylori;A02B
+A03AC;"Synthetic antispasmodics, amides with tertiary amines";A03A
+A03CA;Synthetic anticholinergic agents in combination with psycholeptics;A03C
+A03CB;Belladonna and derivatives in combination with psycholeptics;A03C
+A03DA;Synthetic anticholinergic agents in combination with analgesics;A03D
+A03DB;Belladonna and derivatives in combination with analgesics;A03D
+A05AA;Bile acid preparations;A05A
+A05AB;Preparations for biliary tract therapy;A05A
+A05AX;Other drugs for bile therapy;A05A
+A05BA;Liver therapy;A05B
+A06AA;"Softeners, emollients";A06A
+A07AB;Sulfonamides;A07A
+A07AX;Other intestinal anti-infectives;A07A
+A07BC;Other intestinal adsorbents;A07B
+A07XA;Other antidiarrheals;A07X
+A09AB;Acid preparations;A09A
+A09AC;"Enzyme and acid preparations, combinations";A09A
+A10AF;Insulins and analogues for inhalation;A10A
+A10BC;Sulfonamides (heterocyclic);A10B
+A10BJ;Glucagon-like peptide-1 receptor (GLP-1) analogues;A10B
+A10BK;Sodium-glucose co-transporter 2 (SGLT2) inhibitors;A10B
+A10XA;Aldose reductase inhibitors;A10X
+A11AB;"Multivitamins, other combinations";A11A
+A11DB;Vitamin B1 in combination with vitamin B6 and/or vitamin B12;A11D
+A11EB;Vitamin B-complex with vitamin C;A11E
+A11EC;Vitamin B-complex with minerals;A11E
+A11ED;Vitamin B-complex with anabolic steroids;A11E
+A11EX;"Vitamin B-complex, other combinations";A11E
+A11GB;"Ascorbic acid (vitamin C), combinations";A11G
+A11JA;Combinations of vitamins;A11J
+A11JB;Vitamins with minerals;A11J
+A11JC;"Vitamins, other combinations";A11J
+A12CC;Magnesium;A12C
+A12CD;Fluoride;A12C
+A12CE;Selenium;A12C
+A12CX;Other mineral products;A12C
+A14AA;Androstan derivatives;A14A
+B01AF;Direct factor Xa inhibitors;B01A
+B03AD;Iron in combination with folic acid;B03A
+B05AX;Other blood products;B05A
+B05XX;Other i.v. solution additives;B05X
+B06AX;Other hematological agents;B06A
+C01AB;Scilla glycosides;C01A
+C01AC;Strophantus glycosides;C01A
+C01AX;Other cardiac glycosides;C01A
+C01CE;Phosphodiesterase inhibitors drugs;C01C
+C01CX;Other cardiac stimulants drugs;C01C
+C01DB;Quinolone vasodilators;C01D
+C02AA;Rauvolfia alkaloids;C02A
+C02BA;Sulfonium derivatives;C02B
+C02BB;Secondary and tertiary amines;C02B
+C02CC;Guanidine derivatives;C02C
+C02DA;Thiazide derivatives;C02D
+C02DC;Pyrimidine derivatives;C02D
+C02KA;"Alkaloids, excluding rauwolfia";C02K
+C02KB;Tyrosine hydroxylase inhibitors;C02K
+C02KC;MAO inhibitors;C02K
+C02KD;Serotonin antagonists;C02K
+C02LA;Rauwolfia alkaloids and diuretics in combination;C02L
+C02LB;Methyldopa and diuretics in combination;C02L
+C02LC;Imidazoline receptor agonists in combination with diuretics;C02L
+C02LE;Alpha-adrenoreceptor antagonists and diuretics;C02L
+C02LF;Guanidine derivatives and diuretics;C02L
+C02LG;Hydrazinophthalazine derivatives and diuretics;C02L
+C02LK;"Alkaloids, excluding rauwolfia, in combination with diuretics";C02L
+C02LL;MAO inhibitors and diuretics;C02L
+C02LX;Other antihypertensives and diuretics;C02L
+C03AH;"Thiazides, combinations with psycholeptics and/or analgesics";C03A
+C03AX;"Thiazides, combinations with other drugs";C03A
+C03BC;Mercurial diuretics;C03B
+C03BD;Xanthine derivatives;C03B
+C03BX;Other low-ceiling diuretics;C03B
+C03CC;Aryloxyacetic acid derivatives;C03C
+C03CD;Pyrazolone derivatives;C03C
+C03CX;Other high-ceiling diuretics;C03C
+C04AA;2-amino-1-phenylethanol derivatives;C04A
+C04AC;Nicotinic acid and derivatives;C04A
+C04AE;Ergot alkaloids;C04A
+C04AF;Enzymes;C04A
+C04AX;Other peripheral vasodilators;C04A
+C05BX;Other sclerosing agents;C05B
+C05CX;Other capillary stabilising agents;C05C
+C07BG;Alpha and beta blocking agents and thiazides;C07B
+C07CG;Alpha and beta blocking agents and other diuretics;C07C
+C07DA;"Beta blocking agents, non-selective, thiazides and other diuretics";C07D
+C07DB;"Beta blocking agents, selective, thiazides and other diuretics";C07D
+C07FA;"Beta blocking agents, non-selective, and other antihypertensives";C07F
+C07FX;"Beta blocking agents, other combinations";C07F
+C08EA;Phenylalkylamine derivatives;C08E
+C08EX;Other non-selective calcium channel blockers;C08E
+C08GA;Calcium channel blockers and diuretics;C08G
+C09BX;"ACE inhibitors, other combinations";C09B
+C10BX;"HMG CoA reductase inhibitors, other combinations";C10B
+D02BA;Protectives against UV-radiation for topical use;D02B
+D02BB;Protectives against UV-radiation for systemic use;D02B
+D03BA;Proteolytic enzymes;D03B
+D05AD;Psoralens for topical use;D05A
+D05BX;Other antipsoriatics for systemic use;D05B
+D07BA;"Corticosteroids, weak, combinations with antiseptics";D07B
+D07CD;"Corticosteroids, very potent, combinations with antibiotics";D07C
+D08AA;Acridine derivatives;D08A
+D08AE;Phenol and derivatives;D08A
+D08AH;Quinoline derivatives;D08A
+D08AJ;Quaternary ammonium compounds;D08A
+D08AK;Mercurial products;D08A
+D09AX;Soft paraffin dressings;D09A
+D10AB;Preparations containing sulfur;D10A
+D10BX;Other anti-acne preparations for systemic use;D10B
+D11AE;Androgens for topical use;D11A
+G01AB;Arsenic compounds;G01A
+G01AC;Quinoline derivatives;G01A
+G01AD;Organic acids;G01A
+G01AE;Sulfonamides;G01A
+G02AC;"Ergot alkaloids and oxytocin including analogues, in combination";G02A
+G02CC;Anti-inflammatory products for vaginal administration;G02C
+G03CC;"Estrogens, combinations with other drugs";G03C
+G03EA;Androgens and estrogens;G03E
+G03EK;Androgens and female sex hormones in combination with other drugs;G03E
+G03XX;Other sex hormones and modulators of the genital system;G03X
+G04BA;Acidifiers;G04B
+G04BC;Urinary concrement solvents;G04B
+G04BX;Other urologicals;G04B
+G04CX;Other drugs used in benign prostatic hypertrophy;G04C
+H02BX;"Corticosteroids for systemic use, combinations";H02B
+H02CA;Anticorticosteroids;H02C
+H03BC;Perchlorates;H03B
+H03BX;Other antithyroid preparations;H03B
+J01CG;Beta-lactamase inhibitors;J01C
+J01DI;Other cephalosporins and penems;J01D
+J01ED;Long-acting sulfonamides;J01E
+J01FG;Streptogramin antibiotics;J01F
+J01GA;Streptomycins;J01G
+J04AA;Aminosalicylic acid and derivatives;J04A
+J04AD;Thiocarbamide derivatives;J04A
+J05AA;Thiosemicarbazones;J05A
+J05AC;Cyclic amines;J05A
+J05AP;Antivirals for treatment of HCV infections;J05A
+J06BC;Antibacterial monoclonal antibodies;J06B
+J06BD;Antiviral monoclonal antibodies;J06B
+J07AD;Brucellosis vaccines;J07A
+J07AK;Plague vaccines;J07A
+J07AR;Typhus (exanthematicus) vaccines;J07A
+J07BX;Other viral vaccines;J07B
+L01AG;Epoxides;L01A
+L01CC;Colchicine derivatives;L01C
+L01CE;Topoisomerase 1 (TOP1) inhibitors;L01C
+L01DA;Actinomycin;L01D
+L01EA;BCR-ABL tyrosine kinase inhibitors;L01E
+A11E*;None;A11E
+B01A*;None;B01A
+B05D*;None;B05D
+J05AJ;Integrase inhibitors;J05A
+J06B*;None;J06B
+L01FA;CD20 (Clusters of Differentiation 20) inhibitors;L01F
+L01FB;CD22 (Clusters of Differentiation 22) inhibitors;L01F
+L01FC;CD38 (Clusters of Differentiation 38) inhibitors;L01F
+L01FE;EGFR (Epidermal Growth Factor Receptor) inhibitors;L01F
+L01FG;VEGF/VEGFR (Vascular Endothelial Growth Factor) inhibitors;L01F
+L01XY;Combinations of antineoplastic agents;L01X
+M02AB;Capsaicin and similar agents;M02A
+M02AX;Other topical products for joint and muscular pain;M02A
+N01AA;Ethers;N01A
+N02A*;None;N02A
+N04CX;Other antiparkinson drugs;N04C
+P01AA;Hydroxyquinoline derivatives;P01A
+R02AB;Antibiotics;R02A
+V08AC;"Watersoluble, hepatotropic X-ray contrast media";V08A
+V08CX;Other magnetic resonance imaging contrast media;V08C
+V09AA;Technetium (99mTc) compounds;V09A
+V09AB;Iodine (123I) compounds;V09A
+V09AX;Other central nervous system diagnostic radiopharmaceuticals;V09A
+V09BA;Technetium (99mTc) compounds;V09B
+V09CA;Technetium (99mTc) compounds;V09C
+V09CX;Other renal system diagnostic radiopharmaceuticals;V09C
+V09DA;Technetium (99mTc) compounds;V09D
+V09DB;"Technetium (99mTc), particles and colloids";V09D
+V09DX;Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals;V09D
+V09EA;"Technetium (99mTc), inhalants";V09E
+V09EB;"Technetium (99mTc), particles for injection";V09E
+V09EX;Other respiratory system diagnostic radiopharmaceuticals;V09E
+V09FX;Various thyroid diagnostic radiopharmaceuticals;V09F
+V09GA;Technetium (99mTc) compounds;V09G
+V09GB;Iodine (125I) compounds;V09G
+V09GX;Other cardiovascular system diagnostic radiopharmaceuticals;V09G
+V09HA;Technetium (99mTc) compounds;V09H
+V09HB;Indium (111In) compounds;V09H
+V09HX;Other diagnostic radiopharmaceuticals for inflammation and infection detection;V09H
+V09IA;Technetium (99mTc) compounds;V09I
+V09IB;Indium (111In) compounds;V09I
+V09IX;Other diagnostic radiopharmaceuticals for tumour detection;V09I
+V09XA;Iodine (131I) compounds;V09X
+V09XX;Various diagnostic radiopharmaceuticals;V09X
+V10AA;Yttrium (90Y) compounds;V10A
+V10AX;Other antiinflammatory therapeutic radiopharmaceuticals;V10A
+V10BX;Various pain palliation radiopharmaceuticals;V10B
+V10XA;Iodine (131I) compounds;V10X
+V10XX;Various therapeutic radiopharmaceuticals;V10X
+N05CJ;Orexin receptor antagonists ;N05C
+C05XX;Other vasoprotectives;C05X
+L04AE;Sphingosine 1-phosphate (S1P) receptor modulators;L04A
+L04AF;Janus-associated kinase (JAK) inhibitors;L04A
+L04AG;Monoclonal antibodies;L04A
+L04AH;Mammalian target of rapamycin (mTOR) kinase inhibitors;L04A
+L04AJ;Complement inhibitors;L04A
+L04AK;Dihydroorotate dehydrogenase (DHODH) inhibitors;L04A

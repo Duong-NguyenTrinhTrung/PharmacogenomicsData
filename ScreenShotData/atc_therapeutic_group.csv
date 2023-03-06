@@ -1,0 +1,94 @@
+﻿id;name;parent_id
+A01;Stomatological preparations;A
+A02;Drugs for acid related disorders;A
+A03;Drugs for functional gastrointestinal disorders;A
+A04;Antiemetics and antinauseants;A
+A06;Laxatives;A
+A07;"Antidiarr.,intest. antiinfl./antiinfect. agents";A
+A08;"Antiobesity preparations, excl diet products";A
+A09;"Digestives, incl enzymes";A
+A10;Drugs used in diabetes;A
+A11;Vitamins;A
+A12;Mineral supplements;A
+A14;Anabolic agents for systemic use;A
+A16;Other alimentary tract and metabolism products;A
+B01;Antithrombotic agents;B
+B02;Antihemorrhagics;B
+B03;Antianemic preparations;B
+B05;Blood substitutes and perfusion solutions;B
+B06;Other hematological agents;B
+C01;Cardiac therapy;C
+C02;Antihypertensives;C
+C03;Diuretics;C
+C04;Peripheral vasodilators;C
+C05;Vasoprotectives;C
+C07;Beta blocking agents;C
+C08;Calcium channel blockers;C
+C09;Agents acting on the renin-angiotensin system;C
+C10;Lipid modifying agents;C
+D01;Antifungals for dermatological use;D
+D02;Emollients and protectives;D
+D03;Preparations for treatment of wounds & ulcers;D
+D04;"Antipruritics,incl antihist,anesthet,etc.";D
+D05;Antipsoriatics;D
+D06;Antibiotics and chemother. for dermatological use;D
+D07;"Corticosteroids, dermatological preparations";D
+D08;Antiseptics and disinfectants;D
+D09;Medicated dressings;D
+D10;Anti-acne preparations;D
+D11;Other dermatological preparations;D
+G01;Gynecological antiinfectives and antiseptics;G
+G02;Other gynecologicals;G
+G03;Sex hormones and modulators of the genital system;G
+G04;Urologicals;G
+H01;"Pituitary, hypothalamic hormones and analogues";H
+H02;Corticosteroids for systemic use;H
+H03;Thyroid therapy;H
+H04;Pancreatic hormones;H
+H05;Calcium homeostasis;H
+J01;Antibacterials for systemic use;J
+J02;Antimycotics for systemic use;J
+J04;Antimycobacterials;J
+J05;Antivirals for systemic use;J
+J06;Immune sera and immunoglobulins;J
+J07;Vaccines;J
+L01;Antineoplastic agents;L
+L02;Endocrine therapy;L
+L03;Immunostimulants;L
+L04;Immunosuppressants;L
+M01;Antiinflammatory and antirheumatic products;M
+M02;Topical products for joint and muscular pain;M
+M03;Muscle relaxants;M
+M04;Antigout preparations;M
+M05;Drugs for treatment of bone diseases;M
+M09;Other drugs for disorders of musculo-skeletal syst;M
+N01;Anesthetics;N
+N02;Analgesics;N
+N03;Antiepileptics;N
+N04;Anti-parkinson drugs;N
+N05;Psycholeptics;N
+N06;Psychoanaleptics;N
+N07;Other nervous system drugs;N
+P01;Antiprotozoals;P
+P02;Anthelmintics;P
+P03;"Ectoparasiticides, incl scabicides, insecticides and repellants";P
+R01;Nasal preparations;R
+R02;Throat preparations;R
+R03;Drugs for obstructive airway diseases;R
+R05;Cough and cold preparations;R
+R06;Antihistamines for systemic use;R
+R07;Other respiratory system products;R
+S01;Ophthalmologicals;S
+S02;Otologicals;S
+S03;Ophthalmological and otological preparations;S
+V01;Allergens;V
+V03;All other therapeutic products;V
+V04;Diagnostic agents;V
+V07;All other non-therapeutic products;V
+V08;Contrast media;V
+A05;Bile and liver therapy;A
+A13;Tonics;A
+V06;General nutrients;V
+V09;Diagnostic radiopharmaceuticals;V
+V10;Therapeutic radiopharmaceuticals;V
+V20;Surgical dressings;V

@@ -1,0 +1,46 @@
+﻿druggroup;group_detail
+8;"'Illicit', 'Investigational', 'Withdrawn'"
+9;"'Experimental', 'Withdrawn'"
+10;"'Approved', 'Vet_Approved'"
+11;"'Experimental', 'Illicit'"
+12;'Vet_Approved'
+13;"'Illicit', 'Investigational', 'Vet_Approved'"
+14;"'Vet_Approved', 'Withdrawn'"
+15;"'Experimental', 'Investigational'"
+16;'Illicit'
+17;"'Approved', 'Illicit', 'Withdrawn'"
+18;'Approved'
+19;"'Investigational', 'Nutraceutical'"
+20;"'Approved', 'Nutraceutical', 'Withdrawn'"
+21;"'Approved', 'Illicit', 'Investigational', 'Vet_Approved'"
+22;"'Experimental', 'Illicit', 'Withdrawn'"
+23;"'Approved', 'Illicit', 'Vet_Approved'"
+24;"'Approved', 'Illicit'"
+25;"'Approved', 'Nutraceutical', 'Vet_Approved'"
+26;"'Approved', 'Investigational', 'Withdrawn'"
+27;"'Experimental', 'Nutraceutical'"
+28;"'Illicit', 'Vet_Approved'"
+29;"'Approved', 'Experimental'"
+30;"'Illicit', 'Withdrawn'"
+"0";"'Approved', 'Withdrawn'"
+1;'Experimental'
+2;"'Illicit', 'Investigational'"
+3;"'Approved', 'Nutraceutical'"
+4;"'Approved', 'Investigational', 'Nutraceutical', 'Vet_Approved'"
+5;"'Experimental', 'Vet_Approved'"
+6;'Withdrawn'
+7;"'Approved', 'Illicit', 'Investigational'"
+31;"'Approved', 'Investigational', 'Vet_Approved', 'Withdrawn'"
+32;"'Approved', 'Illicit', 'Investigational', 'Withdrawn'"
+33;"'Approved', 'Investigational'"
+34;"'Approved', 'Investigational', 'Vet_Approved'"
+35;"'Approved', 'Investigational', 'Nutraceutical'"
+36;'Nutraceutical'
+37;"'Approved', 'Vet_Approved', 'Withdrawn'"
+38;"'Investigational', 'Withdrawn'"
+39;"'Investigational', 'Vet_Approved'"
+40;'Investigational'
+41;"'Approved', 'Experimental', 'Investigational'"
+42;"'Approved', 'Experimental', 'Vet_Approved'"
+43;"'Approved', 'Experimental', 'Investigational', 'Withdrawn'"
+44;"'Experimental', 'Illicit', 'Investigational'"

@@ -1,0 +1,409 @@
+﻿drugsubclass;subclass_detail
+"0";Isoindoles
+1;Benzoic Acids And Derivatives
+2;Zearalenones
+3;Steroidal Glycosides
+4;Indoloquinolines
+5;Methoxybenzenes
+6;Tetracarboxylic Acids And Derivatives
+7;Organic Isocyanides
+8;Tricarboxylic Acids And Derivatives
+9;Hydroxysteroids
+10;Milbemycins
+11;Carboxylic Acid Derivatives
+12;(3'->5')-Dinucleotides
+13;Pyridoxines
+14;Organic Phosphonic Acids
+15;Pyrimidines And Pyrimidine Derivatives
+16;Pterins And Derivatives
+17;Phenylpropanes
+18;Naphthyridines
+19;Diphenylacetonitriles
+20;Cinnamic Acid Esters
+21;Alpha Hydroxy Acids And Derivatives
+22;Hydroxycinnamic Acids And Derivatives
+23;Carbodiimides
+24;2-Pyranosylbenzothiazoles
+25;Pyrimidine Deoxyribonucleotides
+26;Post-Transition Metal Nitrates
+27;Non-Metal Selenites
+28;Nitrogen Mustard Compounds
+29;1-Hydroxy-2-Unsubstituted Benzenoids
+30;Beta Propiolactones
+31;Phenylpyridines
+32;Toluenes
+33;Pyridine Carboxaldehydes
+34;Sulfated Steroids
+35;Dibenzazepines
+36;Fatty Aldehydes
+37;Pyrimidine Nucleotide Sugars
+38;Quaternary Ammonium Salts
+39;Naphthols And Derivatives
+40;Isofamides
+41;Benzoyl Derivatives
+42;Phenylbutylamines
+43;Carboxylic Acids
+44;Dicarboxylic Acids And Derivatives
+45;4-Alkoxyphenols
+46;Benzylamines
+47;Phenethylamines
+48;Phosphonic Acid Esters
+49;Naphthalene Sulfonic Acids And Derivatives
+50;4-Quinolinemethanols
+51;Benzenesulfonyl Compounds
+52;Dibenzoxazepines
+53;Sulfones
+54;Cyclohexylphenols
+55;Short-Chain Hydroxy Acids And Derivatives
+56;Phenyl-Beta-Methoxyacrylates
+57;Phenylpyrrolidines
+58;Fentanyls
+59;Organic Cyanides
+60;Furoic Acid And Derivatives
+61;Fatty Amides
+62;"Pyrimidine 2',3'-Dideoxyribonucleosides"
+63;Alpha-Halocarboxylic Acids And Derivatives
+64;Glycerophosphoserines
+65;"1,4-Benzodiazepines"
+66;Diphenylethers
+67;Alkali Metal Nitrates
+68;Flavaglines
+69;Tetraterpenoids
+70;Arylsulfates
+71;Oxazolidines
+72;Steroid Acids
+73;Fatty Acyl Thioesters
+74;Quinoline Carboxylic Acids
+75;Hydroxyindoles
+76;Pyranocoumarins
+77;Pyrimidine 2'-Deoxyribonucleosides
+78;None
+79;Carbonyl Compounds
+80;Dibenzodiazepines
+81;Benzenesulfonamides
+82;Isoflavonoid O-Glycosides
+83;Organic Phosphoramides
+84;Neoflavones
+85;Bisphosphonates
+86;"Purine 2',3'-Dideoxyribonucleosides"
+87;Transition Metal Oxides
+88;Pentacarboxylic Acids And Derivatives
+89;Terpene Lactones
+90;Halophenols
+91;Medium-Chain Hydroxy Acids And Derivatives
+92;Tetrahydrofuran Lignans
+93;Tyrosols And Derivatives
+94;Organotin Compounds
+95;Gamma Butyrolactones
+96;Furanocoumarins
+97;"Benzo-1,4-Dioxanes"
+98;Dibenzofurans
+99;Porphyrins
+100;Phenothiazines
+101;Pheniramines
+102;Aryl Iodides
+103;Phenylmethylamines
+104;Other Non-Metal Oxides
+105;1-Benzopyrans
+106;Hydrolyzable Tannins
+107;Diradylglycerols
+108;Purines And Purine Derivatives
+109;Phenyltropanes
+110;Post-Transition Metal Fluorides
+111;Triazinones
+112;Non-Metal Phosphonates
+113;Butyrophenones
+114;Nitrofurans
+115;Fatty Alcohols
+116;Purine Deoxyribonucleotides
+117;Terphenyls
+118;Benzenediols
+119;Phenoxy Compounds
+120;Organic Nitroso Compounds
+121;5'-Deoxy-5'-Thionucleosides
+122;Non-Metal Phosphates
+123;2-Benzimidazolylcarbamic Acid Esters
+124;Glycerophosphoglycerols
+125;Benzylethers
+126;Phenylacetamides
+127;Vitamin D And Derivatives
+128;1-Hydroxy-4-Unsubstituted Benzenoids
+129;N-Phenylureas
+130;Gamma-Keto Acids And Derivatives
+131;Pyrroloquinolines
+132;Steroid Esters
+133;Benzophenones
+134;Alkylthiols
+135;Sulfinylbenzimidazoles
+136;Benzoquinolines
+137;Benzyl Alcohols
+138;Indazoles
+139;Sulfonyl Fluorides
+140;Benzodiazines
+141;1-Benzothiopyrans
+142;Organoselenium Compounds
+143;Isoxazolines
+144;1-Phenyltetrahydroisoquinolines
+145;Alcohols And Polyols
+146;Phosphate Esters
+147;Miscellaneous Metallic Oxoanionic Compounds
+148;N-Arylamides
+149;Fatty Acyl Glycosides
+150;Cinnamic Acid Amides
+151;Delta Valerolactones
+152;Phenylpropylamines
+153;2-Phenoxypropionic Acid Esters
+154;Imidazoquinolines
+155;Nitrophenols
+156;Transition Metal Chlorides
+157;Halopyridines
+158;Bilirubins
+159;Diphenylmethanes
+160;Triradylcglycerols
+161;Isoprenoid Phosphates
+162;Aminotriazines
+163;Eicosanoids
+164;"Imidazo-[4,5-C]Pyridines"
+165;Biphenyls And Derivatives
+166;Organic Carbonic Acids
+167;Piperidinones
+168;Retinoids
+169;Ethers
+170;Guanidines
+171;Purine Ribonucleotides
+172;Naphthothiophenes
+173;Tetracenequinones
+174;Nicotinamide Nucleotides
+175;Flavans
+176;Lineolic Acids And Derivatives
+177;Metalloid Oxides
+178;Cyclic Purine Nucleotides
+179;Aristolochic Acids And Derivatives
+180;Methylpyridines
+181;Quinoline Carboxamides
+182;Naphthoquinones
+183;Isoflav-2-Enes
+184;Benzazocines
+185;Cyclopyrrolones
+186;Pyridinium Derivatives
+187;Peptoid-Peptide Hybrids
+188;Androstane Steroids
+189;Ureas
+190;Indolines
+191;N-Alkylindoles
+192;Sesquiterpenoids
+193;"2,5-Disubstituted Thiophenes"
+194;Sulfanilides
+195;4-Phenyltetrahydroisoquinolines
+196;Hexacarboxylic Acids And Derivatives
+197;Imidazoles
+198;Dibenzoxepines
+199;Piperazines
+200;Aminophenyl Ethers
+201;Pyranones And Derivatives
+202;"1,3-Isoquinolinediones"
+203;Phenylpiperidines
+204;Glycerophosphoethanolamines
+205;Pyridoxamines
+206;Purine Nucleotide Sugars
+207;Thiophene Carboxylic Acids And Derivatives
+208;Indanones
+209;Organoarsenic Compounds
+210;N-Acylpyrrolidines
+211;Benzylisoquinolines
+212;Short-Chain Keto Acids And Derivatives
+213;Bipyridines And Oligopyridines
+214;Pyrazolines
+215;Organic Pyrophosphates
+216;Fatty Acids And Conjugates
+217;Glycerophosphoglycerophosphoglycerols
+218;Hydroxyisoflavonoids
+219;Oxazolines
+220;Phenylpyrrolines
+221;Cinnamylphenols
+222;Organophosphine Oxides
+223;Naphthopyranones
+224;Post-Transition Metal Sulfates
+225;Thiadiazoles
+226;Naphthalenecarboxylic Acids And Derivatives
+227;Pregnane Steroids
+228;Substituted Pyrroles
+229;Quinone And Hydroquinone Lipids
+230;Cytisine And Derivatives
+231;Phenylbenzofurans
+232;Lipoic Acids And Derivatives
+233;Post-Transition Metal Chlorides
+234;Carbohydrates And Carbohydrate Conjugates
+235;Dialkyldisulfides
+236;Aniline And Substituted Anilines
+237;Trifluoromethylbenzenes
+238;Diterpenoids
+239;Methoxyphenols
+240;Phosphonic Acid Diesters
+241;Isoindolines
+242;Cinnamic Acids
+243;Furanones
+244;Carboximidic Acids
+245;Transition Metal Pyrophosphates
+246;Carbazoles
+247;Transition Metal Sulfates
+248;Pyridyltriazoles
+249;"Pyrazolo[1,5-A]Pyrimidines"
+250;Isoflavans
+251;Cumenes
+252;Pyrazines
+253;"1,4-Dioxanes"
+254;Organic Nitrates
+255;Styrenes
+256;Hybrid Peptides
+257;Aminoxides
+258;Pyrimidine Ribonucleotides
+259;Lysergic Acids And Derivatives
+260;Xylenes
+261;Purine 2'-Deoxyribonucleosides
+262;Triazoles
+263;Alkali Metal Chlorides
+264;Cresols
+265;Benzothiadiazines
+266;Glycerophosphates
+267;"2,3,5-Trisubstituted Thiophenes"
+268;Organosilicon Compounds
+269;Imidazolines
+270;Pyrazolylpyridines
+271;Diphenylfurans
+272;"Pyrido[2,3-D]Pyrimidines"
+273;Benzyl Cyanides
+274;Organic Transition Metal Salts
+275;Galanthamine-Type Amaryllidaceae Alkaloids
+276;Boronic Acid Esters
+277;Corrinoids
+278;Terpene Glycosides
+279;Purine 3'-Deoxyribonucleosides
+280;N-Acylpiperidines
+281;Post-Transition Metal Phosphates
+282;Hydroxypyridines
+283;Dibenzothiepins
+284;Cyclopentyl Nucleosides
+285;2-Pyranosylbenzimidazoles
+286;Fluorohydrins
+287;Quinolones And Derivatives
+288;Alkali Metal Sulfates
+289;Thiazoles
+290;Flavones
+291;Halobenzenes
+292;Alloxazines And Isoalloxazines
+293;"3',5'-Cyclic Purine Nucleoside Phosphorothioates"
+294;Tetrazoles
+295;Anisoles
+296;Biphenols
+297;Indolequinones
+298;Transition Metal Iodides
+299;Alpha-Keto Acids And Derivatives
+300;Benzoxazolones
+301;4-Hydroxy-2-Alkylquinolines
+302;Phenylquinolines
+303;Non-Metal Chlorites
+304;Linear Diarylheptanoids
+305;Isoquinolones And Derivatives
+306;Hydroxyflavonoids
+307;Hydroquinolines
+308;Phenylbenzimidazoles
+309;Sulfuric Acid Esters
+310;Indolyl Carboxylic Acids And Derivatives
+311;Benzofuranones
+312;Phenoxazines
+313;Aminopyridines And Derivatives
+314;Alkaline Earth Metal Chlorides
+315;Amines
+316;Alkali Metal Perchlorates
+317;N-Alkylpyrrolidines
+318;Estrane Steroids
+319;Thiazolines
+320;Monoterpenoids
+321;Steroid Lactones
+322;"Pyrrolo[2,3-D]Pyrimidines"
+323;Piperidinecarboxylic Acids And Derivatives
+324;Glycerophosphoinositols
+325;Nitronaphthalenes
+326;Phenylcarbamic Acid Esters
+327;Epothilones And Analogues
+328;Benzonitriles
+329;"Bile Acids, Alcohols And Derivatives"
+330;Pyridoindoles
+331;Nitrothiophenes
+332;Tryptamines And Derivatives
+333;Morpholines
+334;Alkaline Earth Metal Phosphates
+335;Oxazoles
+336;Aminoquinolines And Derivatives
+337;Aryl Thioethers
+338;Hydropyridines
+339;"Benzo-1,3-Dioxanes"
+340;Pyridinecarboxylic Acids And Derivatives
+341;Dibenzothiazepines
+342;1-Ribosyl-Imidazolecarboxamides
+343;Glycosphingolipids
+344;Pyrroloindoles
+345;Transition Metal Nitrates
+346;Anthraquinones
+347;Tametralines
+348;Phenoxyacetic Acid Derivatives
+349;Phenylpyruvic Acid Derivatives
+350;Indoles
+351;Triterpenoids
+352;Phenylhydrazines
+353;Beta Lactams
+354;Nitroquinolines And Derivatives
+355;"Pyrazolo[3,4-D]Pyrimidines"
+356;"Amino Acids, Peptides, And Analogues"
+357;Imidazolidines
+358;1-Benzothiophenes
+359;Cholestane Steroids
+360;Pyridazines And Derivatives
+361;Phenyl Sulfoxides
+362;Alkali Metal Phosphates
+363;Benzylpiperidines
+364;Pyrrolidinylpyridines
+365;Cyclohexylamines
+366;Anilides
+367;Pyrrolidones
+368;Isosorbides
+369;Nitrobenzenes
+370;Glycerophosphocholines
+371;O-Methylated Flavonoids
+372;Beta Hydroxy Acids And Derivatives
+373;Aminopiperidines
+374;Benzyloxycarbonyls
+375;Anthracenecarboxylic Acids And Derivatives
+376;Phenylnaphthalenes
+377;Benzoyl Peroxides
+378;Hydroxycoumarins
+379;Benzoylindoles
+380;3'-Thia Pyrimidine Nucleosides
+381;Phenanthrols
+382;"1,4-Isoquinolinediones"
+383;Benzopyrenes
+384;Benzenesulfonic Acids And Derivatives
+385;Oxosteroids
+386;Podophyllotoxins
+387;Alkali Metal Fluorides
+388;Isobenzofuranones
+389;Pyridinesulfonamides
+390;Dalbergiones
+391;Benzoxazinones
+392;Fatty Acid Esters
+393;Medium-Chain Keto Acids And Derivatives
+394;2-Phenoxypropionic Acids
+395;Coumarin Glycosides
+396;Chalcones And Dihydrochalcones
+397;Cyclohexyl Halides
+398;Organosulfonic Acids And Derivatives
+399;Flavonoid Glycosides
+400;Oxasteroids And Derivatives
+401;Neoflavenes
+402;Pyrazoles
+403;Oxadiazoles
+404;Phosphinic Acid Esters
+405;Indolecarboxylic Acids And Derivatives
+406;Depsipeptides
+408;Not classified

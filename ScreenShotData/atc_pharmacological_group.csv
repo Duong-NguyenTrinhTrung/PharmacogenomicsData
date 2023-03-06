@@ -1,0 +1,264 @@
+﻿id;name;parent_id
+A01A;Stomatological preparations;A01
+A02A;Antacids;A02
+A02B;Drugs for peptic ulcer and gastro-oesophageal reflux disease (gord);A02
+A03A;Drugs for functional bowel disorders;A03
+A03B;"Belladonna and derivatives, plain";A03
+A03F;Propulsives;A03
+A04A;Antiemetics and antinauseants;A04
+A06A;Laxatives;A06
+A07A;Intestinal antiinfectives;A07
+A07B;Intestinal adsorbents;A07
+A07C;Electrolytes with carbohydrates;A07
+A07D;Antipropulsives;A07
+A07E;Intestinal antiinflammatory agents;A07
+A07F;Antidiarrheal microorganisms;A07
+A08A;"Antiobesity preparations, excl diet products";A08
+A09A;"Digestives, incl enzymes";A09
+A10A;Insulins and analogues;A10
+A10B;"Blood glucose lowering drugs, excl. insulins";A10
+A11A;"Multivitamins, combinations";A11
+A11B;"Multivitamins, plain";A11
+A11C;"Vit a and d, incl combinations of the two";A11
+A11D;"Vit b1,plain and in comb with vitamin b6 and b12";A11
+A11E;"Vitamin b-complex, incl combinations";A11
+A11G;"Ascorbic acid (vit c), incl combinations";A11
+A11H;Other plain vitamin preparations;A11
+A12A;Calcium;A12
+A12B;Potassium;A12
+A12C;Other mineral supplements;A12
+A14A;Anabolic steroids;A14
+A16A;Other alimentary tract and metabolism products;A16
+B01A;Antithrombotic agents;B01
+B02A;Antifibrinolytics;B02
+B02B;Vitamin k and other hemostatics;B02
+B03A;Iron preparations;B03
+B03B;Vitamin b12 and folic acid;B03
+B03X;Other antianemic preparations;B03
+B05A;Blood and related products;B05
+B05B;I.v. solutions;B05
+B05C;Irrigating solutions;B05
+B05D;Peritoneal dialytics;B05
+B05X;I.v. solution additives;B05
+B05Z;Hemodialytics and hemofiltrates;B05
+B06A;Other hematological agents;B06
+C01A;Cardiac glycosides;C01
+C01B;"Antiarrhythmics, class i and iii";C01
+C01C;Cardiac stimulants excl. cardiac glycosides;C01
+C01D;Vasodilators used in cardiac diseases;C01
+C01E;Other cardiac preparations;C01
+C02A;"Antiadrenergic agents, centrally acting";C02
+C02C;"Antiadrenergic agents, peripherally acting";C02
+C02D;"Arteriolar smooth muscle, agents acting on";C02
+C02K;Other antihypertensives;C02
+C03A;"Low-ceiling diuretics, thiazides";C03
+C03B;"Low-ceiling diuretics, excl thiazides";C03
+C03C;High-ceiling diuretics;C03
+C03D;Potassium-sparing agents;C03
+C03E;Diuretics and potassium-sparing agents in comb;C03
+C03X;Other diuretics;C03
+C04A;Peripheral vasodilators;C04
+C05A;Agents for treatment of hemorrhoids and anal fissures for topical use;C05
+C05B;Antivaricose therapy;C05
+C05C;Capillary stabilizing agents;C05
+C07A;"Beta blocking agents, plain";C07
+C07B;Beta blocking agents and thiazides;C07
+C07C;Beta blocking agents and other diuretics;C07
+C07F;Beta blocking agents and other antihypertensives;C07
+C08C;Selective calcium channel blockers with mainly vascular effects;C08
+C08D;Selective calcium channel blockers with direct cardiac effects;C08
+C09A;"Ace-inhibitors, plain";C09
+C09B;"Ace-inhibitors, combinations";C09
+C09C;Angiotensin ii antagonists;C09
+C09D;"Angiotensin ii antagonists, combinations";C09
+C09X;Other agents acting on the renin-angiotensin system;C09
+C10A;"Lipid modifying agents, plain";C10
+C10B;"Lipid modifying agents, comb.";C10
+D01A;Antifungals for topical use;D01
+D01B;Antifungals for systemic use;D01
+D02A;Emollients and protectives;D02
+D03A;Cicatrizants;D03
+D04A;"Antipruritics,incl antihist,anesthet,etc.";D04
+D05A;Antipsoriatics for topical use;D05
+D05B;Antipsoriatics for systemic use;D05
+D06A;Antibiotics for topical use;D06
+D06B;Chemotherapeutics for topical use;D06
+D07A;"Corticosteroids, plain";D07
+D07B;"Corticosteroids, comb with antiseptics";D07
+D07C;"Corticosteroids, comb with antibiotics";D07
+D07X;"Corticosteroids, other combinations";D07
+D08A;Antiseptics and disinfectants;D08
+D09A;Medicated dressings;D09
+D10A;Anti-acne preparations for topical use;D10
+D10B;Anti-acne preparations for systemic use;D10
+D11A;Other dermatological preparations;D11
+G01A;"Antiinfectives/antisept.,excl comb with corticost.";G01
+G02A;Oxytocics;G02
+G02B;Contraceptives for topical use;G02
+G02C;Other gynecologicals;G02
+G03A;Hormonal contraceptives for systemic use;G03
+G03B;Androgens;G03
+G03C;Estrogens;G03
+G03D;Progestogens;G03
+G03F;Progestogens and estrogens in combination;G03
+G03G;Gonadotropins and other ovulation stimulants;G03
+G03H;Antiandrogens;G03
+G03X;Other sex horm. & modulators of the genital system;G03
+G04B;"Other urologicals, incl antispasmodics";G04
+G04C;Drugs used in benign prostatic hypertrophy;G04
+H01A;Anterior pituitary lobe hormones and analogues;H01
+H01B;Posterior pituitary lobe hormones;H01
+H01C;Hypothalamic hormones;H01
+H02A;"Corticosteroids for systemic use, plain";H02
+H03A;Thyroid preparations;H03
+H03B;Antithyroid preparations;H03
+H03C;Iodine therapy;H03
+H04A;Glycogenolytic hormones;H04
+H05A;Parathyroid hormones and analogues;H05
+H05B;Anti-parathyroid agents;H05
+J01A;Tetracyclines;J01
+J01B;Amphenicols;J01
+J01C;"Beta-lactam antibacterials, penicillins";J01
+J01D;Other beta-lactam antibacterials;J01
+J01E;Sulfonamides and trimethoprim;J01
+J01F;"Macrolides, lincosamides and streptogramins";J01
+J01G;Aminoglycoside antibacterials;J01
+J01M;Quinolone antibacterials;J01
+J01R;Combinations of antibacterials;J01
+J01X;Other antibacterials;J01
+J02A;Antimycotics for systemic use;J02
+J04A;Drugs for treatment of tuberculosis;J04
+J04B;Drugs for treatment of lepra;J04
+J05A;Direct acting antivirals;J05
+J06A;Immune sera;J06
+J06B;Immunoglobulins;J06
+J07A;Bacterial vaccines;J07
+J07B;Viral vaccines;J07
+J07C;"Bacterial and viral vaccines, combined";J07
+L01A;Alkylating agents;L01
+L01B;Antimetabolites;L01
+L01C;Plant alkaloids and other natural products;L01
+L01D;Cytotoxic antibiotics and related substances;L01
+L01X;Other antineoplastic agents;L01
+L02A;Hormones and related agents;L02
+L02B;Hormone antagonists and related agents;L02
+L03A;Immunostimulants;L03
+L04A;Immunosuppressants;L04
+M01A;"Antiinflammatory/antirheumatic prod.,non-steroids";M01
+M01C;Specific antirheumatic agents;M01
+M02A;Topical products for joint and muscular pain;M02
+M03A;"Muscle relaxants, peripherally acting agents";M03
+M03B;"Muscle relaxants, centrally acting agents";M03
+M03C;"Muscle relaxants, directly acting agents";M03
+M04A;Antigout preparations;M04
+M05B;Drugs affecting bone structure and mineralization;M05
+M09A;Other drugs for disorders of musculo-skeletal syst;M09
+N01A;"Anesthetics, general";N01
+N01B;"Anesthetics, local";N01
+N02A;Opioids;N02
+N02B;Other analgesics and antipyretics;N02
+N02C;Antimigraine preparations;N02
+N03A;Antiepileptics;N03
+N04A;Anticholinergic agents;N04
+N04B;Dopaminergic agents;N04
+N05A;Antipsychotics;N05
+N05B;Anxiolytics;N05
+N05C;Hypnotics and sedatives;N05
+N06A;Antidepressants;N06
+N06B;"Psychostimulants, agents used for adhd and nootropics";N06
+N06D;Anti-dementia drugs;N06
+N07A;Parasympathomimetics;N07
+N07B;Drugs used in addictive disorders;N07
+N07C;Antivertigo preparations;N07
+N07X;Other nervous system drugs;N07
+P01A;Agents against amoebiasis and other proto.diseases;P01
+P01B;Antimalarials;P01
+P01C;Agents against leishmaniasis and trypanosomiasis;P01
+P02C;Antinematodal agents;P02
+P02D;Anticestodals;P02
+P03A;"Ectoparasiticides, incl scabicides";P03
+R01A;Decongestants and other nasal preparations for topical use;R01
+R01B;Nasal decongestants for systemic use;R01
+R02A;Throat preparations;R02
+R03A;"Adrenergics, inhalants";R03
+R03B;"Other drugs for obstructive airway diseases, inhalants";R03
+R03C;Adrenergics for systemic use;R03
+R03D;Other systemic drugs for obstructive airway diseases;R03
+R05C;"Expectorants,excl combinations with antitussives";R05
+R05D;"Cough suppressants, excl. combinations with expectorants";R05
+R05F;"Antitussives and expectorants, combinations";R05
+R06A;Antihistamines for systemic use;R06
+R07A;Other respiratory system products;R07
+S01A;Antiinfectives;S01
+S01B;Antiinflammatory agents;S01
+S01C;Antiinflammatory agents and antiinfectives in comb;S01
+S01E;Antiglaucoma preparations and miotics;S01
+S01F;Mydriatics and cycloplegics;S01
+S01G;Decongestants and antiallergics;S01
+S01H;Local anesthetics;S01
+S01J;Diagnostic agents;S01
+S01K;Surgical aids;S01
+S01L;Ocular vascular disorder agents;S01
+S01X;Other ophthalmologicals;S01
+S02A;Antiinfectives;S02
+S02C;Corticosteroids and antiinfectives in combination;S02
+S03A;Antiinfectives;S03
+S03B;Corticosteroids;S03
+S03C;Corticosteroids and antiinfectives in combination;S03
+V01A;Allergens;V01
+V03A;All other therapeutic products;V03
+V04C;Other diagnostic agents;V04
+V07A;All other non-therapeutic products;V07
+V08A;"X-ray contrast media, iodinated";V08
+V08B;"X-ray contrast media, non-iodinated";V08
+V08C;Magnetic resonance imaging contrast media;V08
+V08D;Ultrasound contrast media;V08
+A02X;Other drugs for acid related disorders;A02
+A03C;Antispasmodics in combination with psycholeptics;A03
+A03D;Antispasmodics in combination with analgesics;A03
+A03E;Antispasmodics and anticholinergics in combination with other drugs;A03
+A05A;Bile therapy;A05
+A05B;"Liver therapy, lipotropics";A05
+A05C;Drugs for bile therapy and lipotropics in combination;A05
+A10X;Other drugs used in diabetes;A10
+A11J;"Other vitamin products, combinations";A11
+A14B;Other anabolic agents;A14
+C02B;"Antiadrenergic agents, ganglion-blocking";C02
+C02L;Antihypertensives and diuretics in combination;C02
+C07D;"Beta blocking agents, thiazides and other diuretics";C07
+C08E;Non-selective calcium channel blockers;C08
+C08G;Calcium channel blockers and diuretics;C08
+D02B;Protectives against UV-radiation;D02
+D03B;Enzymes;D03
+G03E;Androgens and female sex hormones in combination;G03
+H02B;"Corticosteroids for systemic use, combinations";H02
+H02C;Antiadrenal Preparations;H02
+L01E;Protein kinase inhibitors;L01
+L01F;Monoclonal Antibodies and Antibody Drug Conjugates;L01
+M01B;Anti-inflammatory/antirheumatic agents in combination;M01
+N06C;Psycholeptics and psychoanaleptics in combination;N06
+P02B;Antitrematodals;P02
+P03B;Insecticides and repellents;P03
+S02B;Corticosteroids;S02
+S02D;Other otologicals;S02
+V04B;Urine tests;V04
+V06A;Diet formulations for treatment of obesity;V06
+V06B;Protein supplements;V06
+V06C;Infant formulas;V06
+V06D;Other nutrients;V06
+V09A;Central nervous system;V09
+V09B;Skeleton;V09
+V09C;Renal system;V09
+V09D;Hepatic and reticulo endothelial system;V09
+V09E;Respiratory system;V09
+V09F;Thyroid;V09
+V09G;Cardiovascular system;V09
+V09H;Inflammation and infection detection;V09
+V09I;Tumour detection;V09
+V09X;Other diagnostic radiopharmaceuticals;V09
+V10A;Anti-inflammatory agents;V10
+V10B;Pain palliation (bone seeking agents);V10
+V10X;Other therapeutic radiopharmaceuticals;V10
+A07X;Other antidiarrheals;A07
+N04C;Other antiparkinson drugs;N04
+C05X;Other vasoprotectives;C05

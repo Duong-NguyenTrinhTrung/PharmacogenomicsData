@@ -1,0 +1,248 @@
+﻿drugclass;class_detail
+"0";Naphthopyrans
+1;Transition Metal Organides
+2;Thiadiazines
+3;Pyrans
+4;Benzimidazole Ribonucleosides And Ribonucleotides
+5;Halohydrins
+6;Miscellaneous Mixed Metal/Non-Metals
+7;Organic Carbonic Acids And Derivatives
+8;Glycinamide Ribonucleotides
+9;Trioxanes
+10;Benzisoxazoles
+11;Cephalotaxus Alkaloids
+12;Macrolactams
+13;Indoles And Derivatives
+14;Cinnamic Acids And Derivatives
+15;Phenylpropanoic Acids
+16;Pyrazolotriazines
+17;Lactones
+18;Benzodioxoles
+19;Benzocycloheptapyridines
+20;Imidazopyridines
+21;(3'->5')-Dinucleotides And Analogues
+22;Cycloheptathiophenes
+23;Indanes
+24;Pyrrolopyrimidines
+25;Post-Transition Metal Oxoanionic Compounds
+26;Benzoxazines
+27;Pyrrolopyrimidine Nucleosides And Nucleotides
+28;Tetrapyrroles And Derivatives
+29;Benzopyrans
+30;Thiolanes
+31;Benzene And Substituted Derivatives
+32;Fatty Acyls
+33;Benzodiazepines
+34;Dibenzocycloheptenes
+35;Aporphines
+36;Pyridine Nucleotides
+37;Pyrrolopyridines
+38;Quinolines And Derivatives
+39;Benzoxadiazoles
+40;Glycerophospholipids
+41;Nucleoside And Nucleotide Analogues
+42;Oxepanes
+43;Phenols
+44;Alkaline Earth Metal Oxoanionic Compounds
+45;Indenes And Isoindenes
+46;Amaryllidaceae Alkaloids
+47;Furopyrroles
+48;Protoberberine Alkaloids And Derivatives
+49;Isoxazolopyridines
+50;Organo-Post-Transition Metal Compounds
+51;Organofluorides
+52;Bi- And Oligothiophenes
+53;Thienopyridines
+54;S-Alkyl-Coas
+55;"Imidazo[1,5-A]Pyrazines"
+56;Tannins
+57;Other Non-Metal Organides
+58;Glycerolipids
+59;Purine Nucleosides
+60;Isocoumarins And Derivatives
+61;Indolizidines
+62;Oxazinanes
+63;Sulfoxides
+64;Isocoumarans
+65;Macrolide Lactams
+66;Benzoxepines
+67;Orthocarboxylic Acid Derivatives
+68;Yohimbine Alkaloids
+69;Tropane Alkaloids
+70;Azaspirodecane Derivatives
+71;Coumarans
+72;Anthracyclines
+73;"Linear 1,3-Diarylpropanoids"
+74;Boronic Acid Derivatives
+75;Piperidines
+76;Piperazinoazepines
+77;Thienoimidazolidines
+78;Aurone Flavonoids
+79;Harmala Alkaloids
+80;Dihydroisoquinolines
+81;Pyranopyridines
+82;Steroids And Steroid Derivatives
+83;Transition Metal Salts
+84;Thienodiazepines
+85;Sulfonyl Halides
+86;(5'->5')-Dinucleotides
+87;Benzothiazoles
+88;Benzoxazoles
+89;Diarylheptanoids
+90;Organic Thiophosphoric Acids And Derivatives
+91;Flavonolignans
+92;Pyrroles
+93;Quinuclidines
+94;Benzothiazepines
+95;Furofurans
+96;Sphingolipids
+97;"2',3'-Dideoxy-3'-Thionucleoside Monophosphates"
+98;Organooxygen Compounds
+99;Benzothiopyrans
+100;Tetrahydroisoquinolines
+101;Azobenzenes
+102;Tropones
+103;Polypeptides
+104;Phenol Ethers
+105;Benzothiepins
+106;Ajmaline-Sarpagine Alkaloids
+107;Pyrrolopyrazines
+108;Pyrroloazepines
+109;Isoindoles And Derivatives
+110;Thiochromenes
+111;Imidazopyrimidines
+112;Azoles
+113;Naphthacenes
+114;Naphthalenes
+115;Diazinanes
+116;Biotin And Derivatives
+117;Triazolopyrazines
+118;Imidazothiazoles
+119;Dithiolanes
+120;Dibenzylbutane Lignans
+121;Thienopyrimidines
+122;Organonitrogen Compounds
+123;Pyrrolizines
+124;Heteroaromatic Compounds
+125;Neoflavonoids
+126;Thioethers
+127;5'-Deoxyribonucleosides
+128;Benzoxazepines
+129;Imidazotetrazines
+130;Aryl Halides
+131;Organic Sulfonic Acids And Derivatives
+132;Fluorenes
+133;Coumarins And Derivatives
+134;Furopyrans
+135;Organophosphinic Acids And Derivatives
+136;Phenanthrolines
+137;Oxanes
+138;Diazanaphthalenes
+139;Carboximidic Acids And Derivatives
+140;Imidazodiazepines
+141;Lupin Alkaloids
+142;Pyrimidine Nucleosides
+143;Cycloheptapyrans
+144;Benzothiadiazoles
+145;Other Mixed Metal/Non-Metal Oxoanionic Compounds
+146;Stilbenes
+147;Homogeneous Alkali Metal Compounds
+148;Triazole Ribonucleosides And Ribonucleotides
+149;Benzothiazines
+150;Purine Nucleotides
+151;Keto Acids And Derivatives
+152;Organic Oxoanionic Compounds
+153;Prenol Lipids
+154;Homogeneous Alkaline Earth Metal Compounds
+155;Ribonucleoside 3'-Phosphates
+156;Azolines
+157;Triphenyl Compounds
+158;Isothioureas
+159;Oxazaphosphinanes
+160;Dihydrofurans
+161;Pyridines And Derivatives
+162;Lactams
+163;Phenol Esters
+164;Ergoline And Derivatives
+165;Benzopyrazoles
+166;Non-Metal Oxoanionic Compounds
+167;Dioxanes
+168;Organic Phosphoric Acids And Derivatives
+169;Epibatidine Analogues
+170;"2',5'-Dideoxyribonucleosides"
+171;Post-Transition Metal Salts
+172;Camptothecins
+173;Metalloid Organides
+174;Homogeneous Halogens
+175;Depsides And Depsidones
+176;Flavin Nucleotides
+177;Pyrimidine Nucleotides
+178;Organic Oxides
+179;Anthracenes
+180;Macrolides And Analogues
+181;Pyrazolopyrimidines
+182;Organometalloid Compounds
+183;Imidazole Ribonucleosides And Ribonucleotides
+184;Thiochromanes
+185;Alkali Metal Salts
+186;Furans
+187;Dioxaborolanes
+188;Furanoid Lignans
+189;Hydroxy Acids And Derivatives
+190;Thienopyrroles
+191;Phenanthrenes And Derivatives
+192;Sulfonyls
+193;Imidazopyrazines
+194;Organic Metal Salts
+195;Organic Sulfuric Acids And Derivatives
+196;Pteridines And Derivatives
+197;Organic Phosphonic Acids And Derivatives
+198;Thiols
+199;Cinchona Alkaloids
+200;Triazines
+201;Thianes
+202;Tetralins
+203;Homogeneous Post-Transition Metal Compounds
+204;Vinca Alkaloids
+205;Pyrenes
+206;Azolidines
+207;Alkaline Earth Metal Salts
+208;Transition Metal Oxoanionic Compounds
+209;Alkyl Halides
+210;Lignan Lactones
+211;None
+212;Thienothiazines
+213;Alkali Metal Oxoanionic Compounds
+214;Thiophenes
+215;Peptidomimetics
+216;Triazolopyrimidines
+217;Ibogan-Type Alkaloids
+218;Benzotriazoles
+219;Isoflavonoids
+220;Organic Disulfides
+221;Pyrazolopyridines
+222;Organothiophosphorus Compounds
+223;Dioxolopyrans
+224;Diazines
+225;Pyrrolidines
+226;Carboxylic Acids And Derivatives
+227;Benzothiophenes
+228;2-Arylbenzofuran Flavonoids
+229;Benzazepines
+230;Benzimidazoles
+231;Homogeneous Transition Metal Compounds
+232;Naphthofurans
+233;Tetracyclines
+234;Benzofurans
+235;Flavonoids
+236;Pyrrolines
+237;Organic Phosphines And Derivatives
+238;Isoquinolines And Derivatives
+239;Pyranodioxins
+240;Pyridopyrimidines
+241;Homogeneous Other Non-Metal Compounds
+242;Benzodioxanes
+243;Phthalide Isoquinolines
+244;Eburnan-Type Alkaloids
+245;Morphinans
+247;Not classified
